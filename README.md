@@ -41,5 +41,8 @@ This project focuses on extracting subtitles from movies and visualizing insight
 - Adding sentiment analysis to the subtitles.
 - Expanding dashboard features with more advanced Power BI visualizations.
 
+Dashboard Visualizations looks like
+
+![image](https://github.com/user-attachments/assets/8849c3f5-1515-4aaf-9c7b-37d288c26a34)
 
 
