@@ -44,10 +44,5 @@ This project focuses on extracting subtitles from movies and visualizing insight
 - Adding sentiment analysis to the subtitles.
 - Expanding dashboard features with more advanced Power BI visualizations.
 
-## Contributors
-- **Your Name** (Project Lead)
-- **Other Contributors**
 
-## License
-This project is licensed under the MIT License.
 
