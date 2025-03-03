@@ -6,7 +6,6 @@ This project focuses on extracting subtitles from movies and visualizing insight
 ## Features
 - **Subtitle Scraping:** Extracts text from IMDb website.
 - **Power BI Dashboard:** Displays extracted data with interactive charts and graphs.
-- **Text Processing:** Basic text analysis for word frequency and patterns.
 
 ## Data Sources
 - **Subtitle Files:** Extracted from IMDb website.
@@ -20,28 +19,36 @@ This project focuses on extracting subtitles from movies and visualizing insight
   - Data Export: CSV, Excel for Power BI Integration
 
 ## Installation Guide
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/movie-subtitle-scraping.git
-   cd movie-subtitle-scraping
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-
-   ```
-3. Load the CSV file into Power BI and build visualizations.
+### Clone the repository:
+```sh
+git clone https://github.com/your-repo/movie-subtitle-scraping.git
+cd movie-subtitle-scraping
+```
+### Install dependencies:
+```sh
+pip install -r requirements.txt
+```
+### Load the CSV file into Power BI and build visualizations.
 
 ## Usage
-- **Input:** Upload subtitle files (.srt, .vtt).
-- **Processing:** The system extracts and processes text, then exports data for Power BI.
+- **Input:** Used IMDb website to scrape subtitles.
+- **Processing:** The system extracts and processes text, then exports data as CSV file  for Power BI.
 - **Output:** Power BI dashboard displays insights from subtitle data.
 
-## Future Enhancements.
+## Objective
+The objective of this project is to extract and analyze subtitle data from movies and present insights through an interactive Power BI dashboard. The project aims to leverage trends within movie subtitles. By utilizing data visualization, users can gain a better understanding of subtitle content distribution and linguistic characteristics.
+
+## Conclusion
+The Movie Subtitle Scraping & Power BI Dashboard project successfully extracts subtitle data and transforms it into meaningful insights. 
+
+## Future Enhancements
 - Expanding dashboard features with more advanced Power BI visualizations.
+Dashboard Looks like ![Screenshot 2025-03-03 152948](https://github.com/user-attachments/assets/a6fa488d-32f1-43b3-9503-2909f1c22cd1)
 
-Dashboard Visualizations looks like
 
-![image](https://github.com/user-attachments/assets/8849c3f5-1515-4aaf-9c7b-37d288c26a34)
-
+## Acknowledgments
+- IMDb for subtitle sources.
+- Power BI for data visualization tools.
+- Python libraries for text processing and web scraping.
+.
 
