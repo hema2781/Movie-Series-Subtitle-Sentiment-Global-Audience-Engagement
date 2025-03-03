@@ -1,4 +1,4 @@
-# Movie Subtitle Scraping & Power BI Dashboard
+# Movie Data Scraping & Power BI Dashboard
 
 ## Objective
 The objective of this project is to extract and analyze data from movies like Ratings, Duration, Release year and Genre and present insights through an interactive Power BI dashboard. The project aims to leverage trends within movie. By utilizing data visualization, users can gain a better understanding of content distribution.
