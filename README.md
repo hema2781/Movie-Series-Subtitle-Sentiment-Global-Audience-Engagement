@@ -37,8 +37,7 @@ This project focuses on extracting subtitles from movies and visualizing insight
 - **Processing:** The system extracts and processes text, then exports data for Power BI.
 - **Output:** Power BI dashboard displays insights from subtitle data.
 
-## Future Enhancements
-- Adding sentiment analysis to the subtitles.
+## Future Enhancements.
 - Expanding dashboard features with more advanced Power BI visualizations.
 
 Dashboard Visualizations looks like
