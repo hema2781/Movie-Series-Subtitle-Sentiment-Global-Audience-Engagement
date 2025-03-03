@@ -28,12 +28,9 @@ This project focuses on extracting subtitles from movies and visualizing insight
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
+
    ```
-3. Extract subtitle data and export it as CSV:
-   ```sh
-   python extract_subtitles.py
-   ```
-4. Load the CSV file into Power BI and build visualizations.
+3. Load the CSV file into Power BI and build visualizations.
 
 ## Usage
 - **Input:** Upload subtitle files (.srt, .vtt).
