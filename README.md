@@ -38,8 +38,7 @@ pip install -r requirements.txt
 ## Objective
 The objective of this project is to extract and analyze subtitle data from movies and present insights through an interactive Power BI dashboard. The project aims to leverage trends within movie subtitles. By utilizing data visualization, users can gain a better understanding of subtitle content distribution and linguistic characteristics.
 
-## Conclusion
-The Movie Subtitle Scraping & Power BI Dashboard project successfully extracts subtitle data and transforms it into meaningful insights. 
+
 
 ## Future Enhancements
 - Expanding dashboard features with more advanced Power BI visualizations.
@@ -50,5 +49,9 @@ Dashboard Looks like ![Screenshot 2025-03-03 152948](https://github.com/user-att
 - IMDb for subtitle sources.
 - Power BI for data visualization tools.
 - Python libraries for text processing and web scraping.
+
+
+## Conclusion
+The Movie Subtitle Scraping & Power BI Dashboard project successfully extracts subtitle data and transforms it into meaningful insights. 
 .
 
