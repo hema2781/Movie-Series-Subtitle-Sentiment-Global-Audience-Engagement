@@ -4,18 +4,18 @@
 This project focuses on extracting subtitles from movies and visualizing insights through an interactive Power BI dashboard. The goal is to analyze subtitle content and present key trends using data visualization techniques.
 
 ## Features
-- **Subtitle Scraping:** Extracts text from movie subtitle files (SRT, VTT, etc.).
+- **Subtitle Scraping:** Extracts text from IMDb website.
 - **Power BI Dashboard:** Displays extracted data with interactive charts and graphs.
 - **Text Processing:** Basic text analysis for word frequency and patterns.
 
 ## Data Sources
-- **Subtitle Files:** Extracted from SRT, VTT, or transcript formats.
+- **Subtitle Files:** Extracted from IMDb website.
 
 ## Technology Stack
 - **Programming Languages:** Python
 - **Libraries & Frameworks:**
   - Data Processing: Pandas, NumPy
-  - Web Scraping: BeautifulSoup, Scrapy
+  - Web Scraping: BeautifulSoup
   - Visualization: Power BI
   - Data Export: CSV, Excel for Power BI Integration
 
