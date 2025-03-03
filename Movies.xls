@@ -1,0 +1,2008 @@
+,Movie_name,Rating,Duration,Release_year,Genre,Director
+0,1. American Psycho,7.6,1h 42m,2000,drama,Mary Harron
+1,2. Battle Royale,7.5,1h 54m,2000,drama,Kinji Fukasaku
+2,"3. Crouching Tiger, Hidden Dragon",7.9,2h,2000,drama,Ang Lee
+3,5. Frequency,7.4,1h 58m,2000,drama,Gregory Hoblit
+4,6. Ginger Snaps,6.8,1h 48m,2000,drama,John Fawcett
+5,7. Gladiator,8.5,2h 35m,2000,drama,Ridley Scott
+6,10. Malena,7.4,1h 48m,2000,drama,Giuseppe Tornatore
+7,12. Men of Honor,7.2,2h 9m,2000,drama,George Tillman Jr.
+8,13. Mohabbatein,7.0,3h 36m,2000,drama,Aditya Chopra
+9,19. Tigerland,6.9,1h 41m,2000,drama,Joel Schumacher
+10,20. Unbreakable,7.3,1h 46m,2000,drama,M. Night Shyamalan
+11,22. A.I. Artificial Intelligence,7.2,2h 26m,2001,drama,Steven Spielberg
+12,24. Dil Chahta Hai,8.0,3h 3m,2001,drama,Farhan Akhtar
+13,25. Donnie Darko,8.0,1h 53m,2001,drama,Richard Kelly
+14,26. Gosford Park,7.2,2h 17m,2001,drama,Robert Altman
+15,28. Huccha,7.8,2h 58m,2001,drama,Om Prakash Rao
+16,31. Lagaan: Once Upon a Time in India,8.1,3h 44m,2001,drama,Ashutosh Gowariker
+17,33. No Man's Land,7.9,1h 38m,2001,drama,Danis Tanovic
+18,35. Original Sin,6.0,1h 56m,2001,drama,Michael Cristofer
+19,36. Mulholland Drive,7.9,2h 27m,2001,drama,David Lynch
+20,37. Session 9,6.4,1h 37m,2001,drama,Brad Anderson
+21,39. Sri Manjunatha,7.2,2h 32m,2001,drama,K. Raghavendra Rao
+22,40. The Lord of the Rings: The Fellowship of the Ring,8.9,2h 58m,2001,drama,Peter Jackson
+23,42. The Score,6.8,2h 4m,2001,drama,Frank Oz
+24,43. Training Day,7.8,2h 2m,2001,drama,Antoine Fuqua
+25,46. A Walk to Remember,7.3,1h 41m,2002,drama,Adam Shankman
+26,47. Bend It Like Beckham,6.7,1h 52m,2002,drama,Gurinder Chadha
+27,48. Catch Me If You Can,8.1,2h 21m,2002,drama,Steven Spielberg
+28,49. Devdas,7.5,3h 5m,2002,drama,Sanjay Leela Bhansali
+29,50. Equilibrium,7.3,1h 47m,2002,drama,Kurt Wimmer
+30,53. Insomnia,7.2,1h 58m,2002,drama,Christopher Nolan
+31,54. A Peck on the Cheek,8.3,2h 16m,2002,drama,Mani Ratnam
+32,57. My Big Fat Greek Wedding,6.6,1h 35m,2002,drama,Joel Zwick
+33,58. Panic Room,6.8,1h 52m,2002,drama,David Fincher
+34,61. Secretary,6.9,1h 47m,2002,drama,Steven Shainberg
+35,62. Signs,6.8,1h 46m,2002,drama,M. Night Shyamalan
+36,65. The Lord of the Rings: The Two Towers,8.8,2h 59m,2002,drama,Peter Jackson
+37,69. 11:14,7.1,1h 26m,2003,drama,Greg Marcks
+38,71. A Tale of Two Sisters,7.1,1h 54m,2003,drama,Kim Jee-woon
+39,72. Bad Santa,7.0,1h 32m,2003,drama,Terry Zwigoff
+40,73. Boys,7.2,2h 52m,2003,drama,S. Shankar
+41,75. Cold Mountain,7.2,2h 34m,2003,drama,Anthony Minghella
+42,77. Dweepa,7.6,2h 12m,2002,drama,Girish Kasaravalli
+43,79. Holes,7.0,1h 57m,2003,drama,Andrew Davis
+44,82. Kal Ho Naa Ho,7.9,3h 6m,2003,drama,Nikkhil Advani
+45,83. Kiccha,6.6,2h 34m,2003,drama,P.A. Arun Prasad
+46,85. Monster,7.3,1h 49m,2003,drama,Patty Jenkins
+47,86. Munna Bhai M.B.B.S.,8.1,2h 36m,2003,drama,Rajkumar Hirani
+48,87. Oldboy,8.3,2h,2003,drama,Park Chan-wook
+49,89. Raktha Kanneeru,8.2,2h 29m,2003,drama,Sadhu Kokila
+50,90. Runaway Jury,7.1,2h 7m,2003,drama,Gary Fleder
+51,96. Thirteen,6.8,1h 40m,2003,drama,Catherine Hardwicke
+52,99. 50 First Dates,6.8,1h 39m,2004,drama,Peter Segal
+53,100. Aapthamitra,8.2,1h 40m,2004,drama,P. Vasu
+54,102. A Moment to Remember,8.1,1h 57m,2004,drama,Park Kyung-Jin
+55,104. Before Sunset,8.1,1h 20m,2004,drama,Richard Linklater
+56,107. Collateral,7.5,2h,2004,drama,Michael Mann
+57,111. Eternal Sunshine of the Spotless Mind,8.3,1h 48m,2004,drama,Michel Gondry
+58,113. Finding Neverland,7.7,1h 46m,2004,drama,Marc Forster
+59,117. Hum Tum,7.0,2h 23m,2004,drama,Kunal Kohli
+60,119. Lakshya,7.8,3h 6m,2004,drama,Farhan Akhtar
+61,120. Main Hoon Na,7.1,3h 2m,2004,drama,Farah Khan
+62,126. Speak,7.2,1h 29m,2004,drama,Jessica Sharzer
+63,128. Swades,8.2,3h 9m,2004,drama,Ashutosh Gowariker
+64,129. Swing Girls,7.5,1h 44m,2004,drama,Shinobu Yaguchi
+65,131. The Aviator,7.5,2h 50m,2004,drama,Martin Scorsese
+66,133. The Butterfly Effect,7.6,1h 53m,2004,drama,Eric Bress
+67,136. The Notebook,7.8,2h 3m,2004,drama,Nick Cassavetes
+68,137. The Passion of the Christ,7.2,2h 7m,2004,drama,Mel Gibson
+69,138. The Terminal,7.4,2h 8m,2004,drama,Steven Spielberg
+70,139. The Village,6.6,1h 48m,2004,drama,M. Night Shyamalan
+71,140. Troy,7.3,2h 43m,2004,drama,Wolfgang Petersen
+72,142. Windstruck,7.1,2h 3m,2004,drama,Jae-young Kwak
+73,143. Anniyan,8.3,3h 1m,2005,drama,S. Shankar
+74,144. Batman Begins,8.2,2h 20m,2005,drama,Christopher Nolan
+75,146. Chaos,6.4,1h 46m,2005,drama,Tony Giglio
+76,149. Corpse Bride,7.4,1h 17m,2005,drama,Tim Burton
+77,150. Flightplan,6.3,1h 38m,2005,drama,Robert Schwentke
+78,151. Gone Baby Gone,7.6,1h 54m,2007,drama,Ben Affleck
+79,155. Lord of War,7.6,2h 2m,2005,drama,Andrew Niccol
+80,157. Memoirs of a Geisha,7.3,2h 25m,2005,drama,Rob Marshall
+81,160. Pride & Prejudice,7.8,2h 9m,2005,drama,Joe Wright
+82,162. Revolver,6.3,1h 51m,2005,drama,Guy Ritchie
+83,167. The Devil's Rejects,6.7,1h 47m,2005,drama,Rob Zombie
+84,168. The Exorcism of Emily Rose,6.7,1h 59m,2005,drama,Scott Derrickson
+85,171. The Jacket,7.1,1h 43m,2005,drama,John Maybury
+86,173. The Sisterhood of the Traveling Pants,6.5,1h 59m,2005,drama,Ken Kwapis
+87,174. V for Vendetta,8.1,2h 12m,2005,drama,James McTeigue
+88,176. 16 Blocks,6.6,1h 42m,2006,drama,Richard Donner
+89,177. 300,7.6,1h 57m,2006,drama,Zack Snyder
+90,178. A Millionaire's First Love,7.2,1h 56m,2006,drama,Tae-gyun Kim
+91,179. Babel,7.5,2h 23m,2006,drama,Alejandro G. Iñárritu
+92,180. Bommarillu,8.2,2h 50m,2006,drama,Bommarillu Baskar
+93,182. Children of Men,7.9,1h 49m,2006,drama,Alfonso Cuarón
+94,185. Fanaa,7.1,2h 48m,2006,drama,Kunal Kohli
+95,186. Inside Man,7.6,2h 9m,2006,drama,Spike Lee
+96,187. Lage Raho Munna Bhai,8.0,2h 24m,2006,drama,Rajkumar Hirani
+97,188. Little Children,7.5,2h 17m,2006,drama,Todd Field
+98,189. Lucky Number Slevin,7.7,1h 50m,2006,drama,Paul McGuigan
+99,194. My Autograph,7.9,3h 5m,2006,drama,Sudeep
+100,195. Pan's Labyrinth,8.2,1h 58m,2006,drama,Guillermo del Toro
+101,197. Rang De Basanti,8.1,2h 47m,2006,drama,Rakeysh Omprakash Mehra
+102,199. Starter for 10,6.7,1h 32m,2006,drama,Tom Vaughan
+103,202. The Departed,8.5,2h 31m,2006,drama,Martin Scorsese
+104,203. The Fall,7.8,1h 57m,2006,drama,Tarsem Singh
+105,204. The Girl Who Leapt Through Time,7.7,1h 38m,2006,drama,Mamoru Hosoda
+106,206. The Host,7.1,2h,2006,drama,Bong Joon Ho
+107,207. The Illusionist,7.5,1h 50m,2006,drama,Neil Burger
+108,208. The Prestige,8.5,2h 10m,2006,drama,Christopher Nolan
+109,209. The Pursuit of Happyness,8.0,1h 57m,2006,drama,Gabriele Muccino
+110,210. Vettaiyaadu Vilaiyaadu,7.9,2h 54m,2006,drama,Gautham Vasudev Menon
+111,"211. #73, Shaanthi Nivaasa",7.5,2h 37m,2007,drama,G V Arunkumar
+112,212. 3:10 to Yuma,7.6,2h 2m,2007,drama,James Mangold
+113,214. Awake,6.5,1h 24m,2007,drama,Joby Harold
+114,215. An American Crime,7.2,1h 38m,2007,drama,Tommy O'Haver
+115,217. Bridge to Terabithia,7.2,1h 36m,2007,drama,Gabor Csupo
+116,218. Chak De! India,8.1,2h 33m,2007,drama,Shimit Amin
+117,219. Cheluvina Chittara,6.4,2h 30m,2007,drama,S. Narayan
+118,220. Dan in Real Life,6.8,1h 38m,2007,drama,Peter Hedges
+119,221. Disturbia,6.8,1h 45m,2007,drama,D.J. Caruso
+120,222. Eastern Promises,7.6,1h 40m,2007,drama,David Cronenberg
+121,224. Fracture,7.2,1h 53m,2007,drama,Gregory Hoblit
+122,225. Happy Days,7.9,2h 33m,2007,drama,Sekhar Kammula
+123,228. I Am Legend,7.2,1h 41m,2007,drama,Francis Lawrence
+124,229. Into the Wild,8.1,2h 28m,2007,drama,Sean Penn
+125,230. Jab We Met,7.9,2h 18m,2007,drama,Imtiaz Ali
+126,231. Juno,7.4,1h 36m,2007,drama,Jason Reitman
+127,236. Michael Clayton,7.2,1h 59m,2007,drama,Tony Gilroy
+128,238. Mr. Brooks,7.3,2h,2007,drama,Bruce A. Evans
+129,241. No Country for Old Men,8.2,2h 2m,2007,drama,Ethan Coen
+130,243. Om Shanti Om,6.8,2h 42m,2007,drama,Farah Khan
+131,245. P.S. I Love You,7.0,2h 6m,2007,drama,Richard LaGravenese
+132,248. Shattered,6.6,1h 35m,2007,drama,Mike Barker
+133,250. Shooter,7.1,2h 4m,2007,drama,Antoine Fuqua
+134,253. Sweeney Todd: The Demon Barber of Fleet Street,7.3,1h 56m,2007,drama,Tim Burton
+135,254. Like Stars on Earth,8.3,2h 42m,2007,drama,Aamir Khan
+136,257. The Bucket List,7.4,1h 37m,2007,drama,Rob Reiner
+137,258. The Cake Eaters,6.3,1h 26m,2007,drama,Mary Stuart Masterson
+138,261. The Lookout,6.9,1h 39m,2007,drama,Scott Frank
+139,263. The Orphanage,7.4,1h 45m,2007,drama,J.A. Bayona
+140,265. There Will Be Blood,8.2,2h 38m,2007,drama,Paul Thomas Anderson
+141,266. Trade,7.3,2h,2007,drama,Marco Kreuzpaintner
+142,270. Zodiac,7.7,2h 37m,2007,drama,David Fincher
+143,271. 24: Redemption,7.4,1h 24m,2008,drama,Jon Cassar
+144,"272. Angus, Thongs and Perfect Snogging",6.3,1h 40m,2008,drama,Gurinder Chadha
+145,273. Blindness,6.5,2h 1m,2008,drama,Fernando Meirelles
+146,274. Changeling,7.7,2h 21m,2008,drama,Clint Eastwood
+147,275. City of Ember,6.4,1h 30m,2008,drama,Gil Kenan
+148,276. CJ7,6.4,1h 28m,2008,drama,Stephen Chow
+149,"278. Definitely, Maybe",7.1,1h 52m,2008,drama,Adam Brooks
+150,279. Doubt,7.5,1h 44m,2008,drama,John Patrick Shanley
+151,282. Elegy,6.7,1h 52m,2008,drama,Isabel Coixet
+152,283. Frost/Nixon,7.6,2h 2m,2008,drama,Ron Howard
+153,285. Ghost Town,6.7,1h 42m,2008,drama,David Koepp
+154,286. Gran Torino,8.1,1h 56m,2008,drama,Clint Eastwood
+155,287. Hancock,6.4,1h 32m,2008,drama,Peter Berg
+156,290. Horton Hears a Who!,6.8,1h 26m,2008,drama,Jimmy Hayward
+157,293. Jaane Tu... Ya Jaane Na,7.4,2h 35m,2008,drama,Abbas Tyrewala
+158,295. Let the Right One In,7.8,1h 54m,2008,drama,Tomas Alfredson
+159,298. Mussanje Maathu,7.5,Not Rated,2008,drama,Mussanje Mahesh
+160,299. Nick and Norah's Infinite Playlist,6.6,1h 30m,2008,drama,Peter Sollett
+161,303. Rab Ne Bana Di Jodi,7.2,2h 47m,2008,drama,Aditya Chopra
+162,305. Restraint,6.0,1h 32m,2008,drama,David Denneen
+163,307. Seven Pounds,7.6,2h 3m,2008,drama,Gabriele Muccino
+164,309. Slumdog Millionaire,8.0,2h,2008,drama,Danny Boyle
+165,314. The Boy in the Striped Pajamas,7.7,1h 34m,2008,drama,Mark Herman
+166,317. The Curious Case of Benjamin Button,7.8,2h 46m,2008,drama,David Fincher
+167,318. The Dark Knight,9.0,2h 32m,2008,drama,Christopher Nolan
+168,319. The Hurt Locker,7.5,2h 11m,2008,drama,Kathryn Bigelow
+169,322. The Secret Life of Bees,7.2,1h 54m,2008,drama,Gina Prince-Bythewood
+170,323. The Sisterhood of the Traveling Pants 2,6.2,1h 59m,2008,drama,Sanaa Hamri
+171,324. Traitor,6.9,1h 54m,2008,drama,Jeffrey Nachmanoff
+172,325. Twilight,5.3,2h 2m,2008,drama,Catherine Hardwicke
+173,327. Valkyrie,7.1,2h 1m,2008,drama,Bryan Singer
+174,328. Vantage Point,6.6,1h 30m,2008,drama,Pete Travis
+175,333. 3 Idiots,8.4,2h 50m,2009,drama,Rajkumar Hirani
+176,334. 9,7.0,1h 19m,2009,drama,Shane Acker
+177,335. 500 Days of Summer,7.7,1h 35m,2009,drama,Marc Webb
+178,336. Adventureland,6.8,1h 47m,2009,drama,Greg Mottola
+179,337. An Education,7.2,1h 40m,2009,drama,Lone Scherfig
+180,338. A Serious Man,7.0,1h 46m,2009,drama,Ethan Coen
+181,340. Coraline,7.8,1h 40m,2009,drama,Henry Selick
+182,342. Defendor,6.7,1h 41m,2009,drama,Peter Stebbings
+183,348. Inglourious Basterds,8.4,2h 33m,2009,drama,Quentin Tarantino
+184,350. Julie & Julia,7.0,2h 3m,2009,drama,Nora Ephron
+185,351. Love Aaj Kal,6.8,2h 8m,2009,drama,Imtiaz Ali
+186,352. Maleyali Jotheyali,7.1,2h 18m,2009,drama,Preetham Gubbi
+187,353. My Sister's Keeper,7.3,1h 49m,2009,drama,Nick Cassavetes
+188,355. Pasanga,7.7,2h 58m,2009,drama,Pandiraj
+189,356. Public Enemies,6.9,2h 20m,2009,drama,Michael Mann
+190,360. State of Play,7.1,2h 7m,2009,drama,Kevin Macdonald
+191,361. The Blind Side,7.6,2h 9m,2009,drama,John Lee Hancock
+192,364. The International,6.5,1h 58m,2009,drama,Tom Tykwer
+193,367. The Proposal,6.8,1h 48m,2009,drama,Anne Fletcher
+194,369. The Uninvited,6.3,1h 27m,2009,drama,Charles Guard
+195,370. Up,8.3,1h 36m,2009,drama,Pete Docter
+196,371. Up in the Air,7.4,1h 49m,2009,drama,Jason Reitman
+197,373. Watchmen,7.6,2h 42m,2009,drama,Zack Snyder
+198,376. Beginners,7.2,1h 45m,2010,drama,Mike Mills
+199,377. Black Swan,8.0,1h 48m,2010,drama,Darren Aronofsky
+200,380. Extraordinary Measures,6.4,1h 46m,2010,drama,Tom Vaughan
+201,382. Green Zone,6.8,1h 55m,2010,drama,Paul Greengrass
+202,389. Legend of the Guardians: The Owls of Ga'Hoole,6.9,1h 37m,2010,drama,Zack Snyder
+203,390. Love & Other Drugs,6.7,1h 52m,2010,drama,Edward Zwick
+204,391. My Name Is Khan,7.9,2h 45m,2010,drama,Karan Johar
+205,392. Pancharangi,7.4,2h 3m,2010,drama,Yograj Bhat
+206,397. Shutter Island,8.2,2h 18m,2010,drama,Martin Scorsese
+207,401. The Ghost Writer,7.2,2h 8m,2010,drama,Roman Polanski
+208,402. The Runaways,6.5,1h 46m,2010,drama,Floria Sigismondi
+209,403. The Social Network,7.8,2h,2010,drama,David Fincher
+210,"404. Tomorrow, When the War Began",6.1,1h 44m,2010,drama,Stuart Beattie
+211,406. Welcome to the Rileys,6.9,1h 50m,2010,drama,Jake Scott
+212,407. Another Earth,6.9,1h 32m,2011,drama,Mike Cahill
+213,409. Contagion,6.8,1h 46m,2011,drama,Steven Soderbergh
+214,410. Cowboys & Aliens,6.0,1h 59m,2011,drama,Jon Favreau
+215,"411. Crazy, Stupid, Love.",7.4,1h 58m,2011,drama,Glenn Ficarra
+216,412. Damsels in Distress,5.8,1h 39m,2011,drama,Whit Stillman
+217,414. Drive,7.8,1h 40m,2011,drama,Nicolas Winding Refn
+218,416. Hanna,6.7,1h 51m,2011,drama,Joe Wright
+219,417. Hudugaru,7.8,2h 28m,2011,drama,K. Madesh
+220,418. Hugo,7.5,2h 6m,2011,drama,Martin Scorsese
+221,420. J. Edgar,6.5,2h 17m,2011,drama,Clint Eastwood
+222,422. Kiraathaka,7.5,2h 41m,2011,drama,Pradeep Raj
+223,423. Kung Fu Panda 2,7.3,1h 30m,2011,drama,Jennifer Yuh Nelson
+224,424. Martha Marcy May Marlene,6.8,1h 42m,2011,drama,Sean Durkin
+225,426. Perfect Sense,7.0,1h 32m,2011,drama,David Mackenzie
+226,428. Rise of the Planet of the Apes,7.6,1h 45m,2011,drama,Rupert Wyatt
+227,429. Sanju Weds Geetha,6.9,2h 15m,2011,drama,Nagashekar
+228,430. Shyloo,6.3,2h 32m,2011,drama,S. Narayan
+229,431. Source Code,7.5,1h 33m,2011,drama,Duncan Jones
+230,433. The Adjustment Bureau,7.0,1h 46m,2011,drama,George Nolfi
+231,435. The Artist,7.8,1h 40m,2011,drama,Michel Hazanavicius
+232,436. The Descendants,7.3,1h 55m,2011,drama,Alexander Payne
+233,437. The Girl with the Dragon Tattoo,7.8,2h 38m,2011,drama,David Fincher
+234,438. The Help,8.1,2h 26m,2011,drama,Tate Taylor
+235,439. The Innkeepers,5.5,1h 41m,2011,drama,Ti West
+236,440. The Twilight Saga: Breaking Dawn - Part 1,4.9,1h 57m,2011,drama,Bill Condon
+237,446. You're Next,6.6,1h 35m,2011,drama,Adam Wingard
+238,449. Argo,7.7,2h,2012,drama,Ben Affleck
+239,450. B.A. Pass,6.4,1h 35m,2012,drama,Ajay Bahl
+240,451. Barfi!,8.1,2h 31m,2012,drama,Anurag Basu
+241,452. Brave,7.1,1h 33m,2012,drama,Mark Andrews
+242,453. Byzantium,6.5,1h 58m,2012,drama,Neil Jordan
+243,454. Cloud Atlas,7.4,2h 52m,2012,drama,Tom Tykwer
+244,455. Django Unchained,8.5,2h 45m,2012,drama,Quentin Tarantino
+245,457. End of Watch,7.6,1h 49m,2012,drama,David Ayer
+246,458. Holy Motors,7.0,1h 55m,2012,drama,Leos Carax
+247,461. Lawless,7.2,1h 56m,2012,drama,John Hillcoat
+248,462. Life of Pi,7.9,2h 7m,2012,drama,Ang Lee
+249,463. Looper,7.4,1h 59m,2012,drama,Rian Johnson
+250,2. Battle Royale,7.5,1h 54m,2000,thriller,Kinji Fukasaku
+251,4. Final Destination,6.7,1h 38m,2000,thriller,James Wong
+252,5. Frequency,7.4,1h 58m,2000,thriller,Gregory Hoblit
+253,6. Ginger Snaps,6.8,1h 48m,2000,thriller,John Fawcett
+254,8. Gone in 60 Seconds,6.5,1h 58m,2000,thriller,Dominic Sena
+255,14. Pitch Black,7.0,1h 49m,2000,thriller,David Twohy
+256,18. The Cell,6.4,1h 47m,2000,thriller,Tarsem Singh
+257,20. Unbreakable,7.3,1h 46m,2000,thriller,M. Night Shyamalan
+258,25. Donnie Darko,8.0,1h 53m,2001,thriller,Richard Kelly
+259,29. Kiss of the Dragon,6.6,1h 38m,2001,thriller,Chris Nahon
+260,32. Lara Croft: Tomb Raider,5.8,1h 40m,2001,thriller,Simon West
+261,34. Ocean's Eleven,7.7,1h 56m,2001,thriller,Steven Soderbergh
+262,35. Original Sin,6.0,1h 56m,2001,thriller,Michael Cristofer
+263,36. Mulholland Drive,7.9,2h 27m,2001,thriller,David Lynch
+264,41. The Others,7.6,1h 44m,2001,thriller,Alejandro Amenábar
+265,42. The Score,6.8,2h 4m,2001,thriller,Frank Oz
+266,43. Training Day,7.8,2h 2m,2001,thriller,Antoine Fuqua
+267,44. Vaalee,6.8,2h 39m,2001,thriller,S. Mahendar
+268,45. Vanilla Sky,6.9,2h 16m,2001,thriller,Cameron Crowe
+269,50. Equilibrium,7.3,1h 47m,2002,thriller,Kurt Wimmer
+270,53. Insomnia,7.2,1h 58m,2002,thriller,Christopher Nolan
+271,55. Makdee,7.5,1h 30m,2002,thriller,Vishal Bhardwaj
+272,56. Minority Report,7.6,2h 25m,2002,thriller,Steven Spielberg
+273,58. Panic Room,6.8,1h 52m,2002,thriller,David Fincher
+274,59. Phone Booth,7.1,1h 21m,2002,thriller,Joel Schumacher
+275,62. Signs,6.8,1h 46m,2002,thriller,M. Night Shyamalan
+276,64. The Bourne Identity,7.8,1h 59m,2002,thriller,Doug Liman
+277,67. The Transporter,6.8,1h 32m,2002,thriller,Louis Leterrier
+278,69. 11:14,7.1,1h 26m,2003,thriller,Greg Marcks
+279,71. A Tale of Two Sisters,7.1,1h 54m,2003,thriller,Kim Jee-woon
+280,80. Identity,7.3,1h 30m,2003,thriller,James Mangold
+281,84. Kill Bill: Vol. 1,8.2,1h 51m,2003,thriller,Quentin Tarantino
+282,85. Monster,7.3,1h 49m,2003,thriller,Patty Jenkins
+283,87. Oldboy,8.3,2h,2003,thriller,Park Chan-wook
+284,90. Runaway Jury,7.1,2h 7m,2003,thriller,Gary Fleder
+285,97. Underworld,7.0,2h 1m,2003,thriller,Len Wiseman
+286,98. X2: X-Men United,7.4,2h 14m,2003,thriller,Bryan Singer
+287,100. Aapthamitra,8.2,1h 40m,2004,thriller,P. Vasu
+288,101. Alien vs. Predator,5.7,1h 41m,2004,thriller,Paul W.S. Anderson
+289,105. Cellular,6.5,1h 34m,2004,thriller,David R. Ellis
+290,107. Collateral,7.5,2h,2004,thriller,Michael Mann
+291,109. District B13,7.1,1h 24m,2004,thriller,Pierre Morel
+292,"118. I, Robot",7.1,1h 55m,2004,thriller,Alex Proyas
+293,120. Main Hoon Na,7.1,3h 2m,2004,thriller,Farah Khan
+294,123. National Treasure,6.9,2h 11m,2004,thriller,Jon Turteltaub
+295,124. Saw,7.6,1h 43m,2004,thriller,James Wan
+296,130. Taking Lives,6.2,1h 43m,2004,thriller,D.J. Caruso
+297,132. The Bourne Supremacy,7.7,1h 48m,2004,thriller,Paul Greengrass
+298,133. The Butterfly Effect,7.6,1h 53m,2004,thriller,Eric Bress
+299,134. The Grudge,5.9,1h 31m,2004,thriller,Takashi Shimizu
+300,139. The Village,6.6,1h 48m,2004,thriller,M. Night Shyamalan
+301,143. Anniyan,8.3,3h 1m,2005,thriller,S. Shankar
+302,146. Chaos,6.4,1h 46m,2005,thriller,Tony Giglio
+303,150. Flightplan,6.3,1h 38m,2005,thriller,Robert Schwentke
+304,151. Gone Baby Gone,7.6,1h 54m,2007,thriller,Ben Affleck
+305,158. Mr. & Mrs. Smith,6.5,2h,2005,thriller,Doug Liman
+306,162. Revolver,6.3,1h 51m,2005,thriller,Guy Ritchie
+307,163. Serenity,7.8,1h 59m,2005,thriller,Joss Whedon
+308,166. The Descent,7.2,1h 39m,2005,thriller,Neil Marshall
+309,168. The Exorcism of Emily Rose,6.7,1h 59m,2005,thriller,Scott Derrickson
+310,170. The Island,6.8,2h 16m,2005,thriller,Michael Bay
+311,171. The Jacket,7.1,1h 43m,2005,thriller,John Maybury
+312,174. V for Vendetta,8.1,2h 12m,2005,thriller,James McTeigue
+313,176. 16 Blocks,6.6,1h 42m,2006,thriller,Richard Donner
+314,181. Casino Royale,8.0,2h 24m,2006,thriller,Martin Campbell
+315,182. Children of Men,7.9,1h 49m,2006,thriller,Alfonso Cuarón
+316,183. Crank,6.9,1h 28m,2006,thriller,Mark Neveldine
+317,184. Deja Vu,7.1,2h 6m,2006,thriller,Tony Scott
+318,185. Fanaa,7.1,2h 48m,2006,thriller,Kunal Kohli
+319,186. Inside Man,7.6,2h 9m,2006,thriller,Spike Lee
+320,189. Lucky Number Slevin,7.7,1h 50m,2006,thriller,Paul McGuigan
+321,191. Mission: Impossible III,6.9,2h 6m,2006,thriller,J.J. Abrams
+322,201. The Da Vinci Code,6.6,2h 29m,2006,thriller,Ron Howard
+323,202. The Departed,8.5,2h 31m,2006,thriller,Martin Scorsese
+324,205. The Hills Have Eyes,6.4,1h 47m,2006,thriller,Alexandre Aja
+325,207. The Illusionist,7.5,1h 50m,2006,thriller,Neil Burger
+326,208. The Prestige,8.5,2h 10m,2006,thriller,Christopher Nolan
+327,210. Vettaiyaadu Vilaiyaadu,7.9,2h 54m,2006,thriller,Gautham Vasudev Menon
+328,214. Awake,6.5,1h 24m,2007,thriller,Joby Harold
+329,221. Disturbia,6.8,1h 45m,2007,thriller,D.J. Caruso
+330,222. Eastern Promises,7.6,1h 40m,2007,thriller,David Cronenberg
+331,224. Fracture,7.2,1h 53m,2007,thriller,Gregory Hoblit
+332,227. Hot Fuzz,7.8,2h 1m,2007,thriller,Edgar Wright
+333,228. I Am Legend,7.2,1h 41m,2007,thriller,Francis Lawrence
+334,233. Knowing,6.2,2h 1m,2009,thriller,Alex Proyas
+335,234. Live Free or Die Hard,7.1,2h 8m,2007,thriller,Len Wiseman
+336,236. Michael Clayton,7.2,1h 59m,2007,thriller,Tony Gilroy
+337,238. Mr. Brooks,7.3,2h,2007,thriller,Bruce A. Evans
+338,239. Nancy Drew,5.9,1h 39m,2007,thriller,Andrew Fleming
+339,240. Next,6.2,1h 36m,2007,thriller,Lee Tamahori
+340,241. No Country for Old Men,8.2,2h 2m,2007,thriller,Ethan Coen
+341,242. Ocean's Thirteen,6.9,2h 2m,2007,thriller,Steven Soderbergh
+342,243. Om Shanti Om,6.8,2h 42m,2007,thriller,Farah Khan
+343,247. Sunshine,7.2,1h 47m,2007,thriller,Danny Boyle
+344,248. Shattered,6.6,1h 35m,2007,thriller,Mike Barker
+345,249. Shoot 'Em Up,6.6,1h 26m,2007,thriller,Michael Davis
+346,250. Shooter,7.1,2h 4m,2007,thriller,Antoine Fuqua
+347,253. Sweeney Todd: The Demon Barber of Fleet Street,7.3,1h 56m,2007,thriller,Tim Burton
+348,255. Teeth,5.4,1h 34m,2007,thriller,Mitchell Lichtenstein
+349,256. The Bourne Ultimatum,8.0,1h 55m,2007,thriller,Paul Greengrass
+350,261. The Lookout,6.9,1h 39m,2007,thriller,Scott Frank
+351,262. The Mist,7.1,2h 6m,2007,thriller,Frank Darabont
+352,263. The Orphanage,7.4,1h 45m,2007,thriller,J.A. Bayona
+353,266. Trade,7.3,2h,2007,thriller,Marco Kreuzpaintner
+354,268. Vacancy,6.2,1h 25m,2007,thriller,Nimród Antal
+355,270. Zodiac,7.7,2h 37m,2007,thriller,David Fincher
+356,271. 24: Redemption,7.4,1h 24m,2008,thriller,Jon Cassar
+357,273. Blindness,6.5,2h 1m,2008,thriller,Fernando Meirelles
+358,274. Changeling,7.7,2h 21m,2008,thriller,Clint Eastwood
+359,275. City of Ember,6.4,1h 30m,2008,thriller,Gil Kenan
+360,277. Death Race,6.4,1h 45m,2008,thriller,Paul W.S. Anderson
+361,280. Eagle Eye,6.6,1h 58m,2008,thriller,D.J. Caruso
+362,281. Eden Lake,6.7,1h 31m,2008,thriller,James Watkins
+363,301. Quantum of Solace,6.5,1h 46m,2008,thriller,Marc Forster
+364,302. Quarantine,6.0,1h 29m,2008,thriller,John Erick Dowdle
+365,304. Red Mist,4.9,1h 22m,2008,thriller,Paddy Breathnach
+366,305. Restraint,6.0,1h 32m,2008,thriller,David Denneen
+367,307. Seven Pounds,7.6,2h 3m,2008,thriller,Gabriele Muccino
+368,311. Taken,7.7,1h 30m,2008,thriller,Pierre Morel
+369,312. The Alphabet Killer,5.2,1h 38m,2008,thriller,Rob Schmidt
+370,313. The Bank Job,7.2,1h 51m,2008,thriller,Roger Donaldson
+371,315. The Children,5.9,1h 24m,2008,thriller,Tom Shankland
+372,318. The Dark Knight,9.0,2h 32m,2008,thriller,Christopher Nolan
+373,319. The Hurt Locker,7.5,2h 11m,2008,thriller,Kathryn Bigelow
+374,321. The Ruins,5.9,1h 30m,2008,thriller,Carter Smith
+375,324. Traitor,6.9,1h 54m,2008,thriller,Jeffrey Nachmanoff
+376,326. Untraceable,6.2,1h 41m,2008,thriller,Gregory Hoblit
+377,327. Valkyrie,7.1,2h 1m,2008,thriller,Bryan Singer
+378,328. Vantage Point,6.6,1h 30m,2008,thriller,Pete Travis
+379,330. Wanted,6.7,1h 50m,2008,thriller,Timur Bekmambetov
+380,334. 9,7.0,1h 19m,2009,thriller,Shane Acker
+381,341. Daybreakers,6.4,1h 38m,2009,thriller,Michael Spierig
+382,343. District 9,7.9,1h 52m,2009,thriller,Neill Blomkamp
+383,354. Orphan,7.0,2h 3m,2009,thriller,Jaume Collet-Serra
+384,360. State of Play,7.1,2h 7m,2009,thriller,Kevin Macdonald
+385,362. The Fourth Kind,5.9,1h 38m,2009,thriller,Olatunde Osunsanmi
+386,364. The International,6.5,1h 58m,2009,thriller,Tom Tykwer
+387,366. The Last House on the Left,6.5,1h 53m,2009,thriller,Dennis Iliadis
+388,369. The Uninvited,6.3,1h 27m,2009,thriller,Charles Guard
+389,377. Black Swan,8.0,1h 48m,2010,thriller,Darren Aronofsky
+390,379. Devil,6.3,1h 20m,2010,thriller,John Erick Dowdle
+391,381. Frozen,6.2,1h 33m,2010,thriller,Adam Green
+392,382. Green Zone,6.8,1h 55m,2010,thriller,Paul Greengrass
+393,385. Inception,8.8,2h 28m,2010,thriller,Christopher Nolan
+394,386. Insidious,6.8,1h 43m,2010,thriller,James Wan
+395,389. Legend of the Guardians: The Owls of Ga'Hoole,6.9,1h 37m,2010,thriller,Zack Snyder
+396,394. Repo Men,6.3,1h 51m,2010,thriller,Miguel Sapochnik
+397,395. Salt,6.5,1h 40m,2010,thriller,Phillip Noyce
+398,396. 6 Souls,6.0,1h 52m,2010,thriller,Måns Mårlind
+399,397. Shutter Island,8.2,2h 18m,2010,thriller,Martin Scorsese
+400,401. The Ghost Writer,7.2,2h 8m,2010,thriller,Roman Polanski
+401,"404. Tomorrow, When the War Began",6.1,1h 44m,2010,thriller,Stuart Beattie
+402,409. Contagion,6.8,1h 46m,2011,thriller,Steven Soderbergh
+403,410. Cowboys & Aliens,6.0,1h 59m,2011,thriller,Jon Favreau
+404,413. Detention,5.6,1h 33m,2011,thriller,Joseph Kahn
+405,415. Fast Five,7.3,2h 10m,2011,thriller,Justin Lin
+406,416. Hanna,6.7,1h 51m,2011,thriller,Joe Wright
+407,421. Kempe Gowda,7.2,2h 21m,2011,thriller,Sudeep
+408,424. Martha Marcy May Marlene,6.8,1h 42m,2011,thriller,Sean Durkin
+409,428. Rise of the Planet of the Apes,7.6,1h 45m,2011,thriller,Rupert Wyatt
+410,431. Source Code,7.5,1h 33m,2011,thriller,Duncan Jones
+411,432. Super 8,7.0,1h 52m,2011,thriller,J.J. Abrams
+412,433. The Adjustment Bureau,7.0,1h 46m,2011,thriller,George Nolfi
+413,434. The Adventures of Tintin,7.3,1h 47m,2011,thriller,Steven Spielberg
+414,437. The Girl with the Dragon Tattoo,7.8,2h 38m,2011,thriller,David Fincher
+415,440. The Twilight Saga: Breaking Dawn - Part 1,4.9,1h 57m,2011,thriller,Bill Condon
+416,443. Unknown,6.8,1h 53m,2011,thriller,Jaume Collet-Serra
+417,444. Vishnuvardhana,7.4,2h 49m,2011,thriller,Ponkumaran
+418,446. You're Next,6.6,1h 35m,2011,thriller,Adam Wingard
+419,449. Argo,7.7,2h,2012,thriller,Ben Affleck
+420,450. B.A. Pass,6.4,1h 35m,2012,thriller,Ajay Bahl
+421,453. Byzantium,6.5,1h 58m,2012,thriller,Neil Jordan
+422,454. Cloud Atlas,7.4,2h 52m,2012,thriller,Tom Tykwer
+423,457. End of Watch,7.6,1h 49m,2012,thriller,David Ayer
+424,459. Jack Reacher,7.0,2h 10m,2012,thriller,Christopher McQuarrie
+425,461. Lawless,7.2,1h 56m,2012,thriller,John Hillcoat
+426,463. Looper,7.4,1h 59m,2012,thriller,Rian Johnson
+427,467. Simon Killer,6.3,1h 46m,2012,thriller,Antonio Campos
+428,468. Snow White and the Huntsman,6.1,2h 7m,2012,thriller,Rupert Sanders
+429,469. Skyfall,7.8,2h 23m,2012,thriller,Sam Mendes
+430,470. Talaash: The Answer Lies Within,7.3,2h 20m,2012,thriller,Reema Kagti
+431,472. The Dark Knight Rises,8.4,2h 44m,2012,thriller,Christopher Nolan
+432,474. The Last Will and Testament of Rosalind Leigh,5.1,1h 22m,2012,thriller,Rodrigo Gudiño
+433,475. The Lords of Salem,5.2,1h 41m,2012,thriller,Rob Zombie
+434,477. The Possession,5.9,1h 32m,2012,thriller,Ole Bornedal
+435,478. The Seasoning House,6.1,1h 30m,2012,thriller,Paul Hyett
+436,479. The Woman in Black,6.4,1h 35m,2012,thriller,James Watkins
+437,483. Zero Dark Thirty,7.4,2h 37m,2012,thriller,Kathryn Bigelow
+438,484. 6-5=2,5.6,1h 45m,2013,thriller,K.S. Ashoka
+439,487. Attahaasa,7.0,2h 51m,2013,thriller,A.M.R. Ramesh
+440,494. Carrie,5.8,1h 40m,2013,thriller,Kimberly Peirce
+441,495. Case No.18/9,7.8,N/A,2013,thriller,Mahesh Rao
+442,498. Europa Report,6.4,1h 30m,2013,thriller,Sebastián Cordero
+443,501. Gravity,7.7,1h 31m,2013,thriller,Alfonso Cuarón
+444,506. Kaddipudi,7.5,2h 15m,2013,thriller,Suri
+445,507. Lucia,8.3,2h 15m,2013,thriller,Pawan Kumar
+446,508. Mama,6.2,1h 40m,2013,thriller,Andy Muschietti
+447,510. Now You See Me,7.2,1h 55m,2013,thriller,Louis Leterrier
+448,515. Avenged,5.5,1h 35m,2013,thriller,Michael S. Ojeda
+449,518. Snowpiercer,7.1,2h 6m,2013,thriller,Bong Joon Ho
+450,519. Soodhu Kavvum,8.3,2h 15m,2013,thriller,Nalan Kumarasamy
+451,520. Special 26,8.0,2h 24m,2013,thriller,Neeraj Pandey
+452,522. Stoker,6.7,1h 39m,2013,thriller,Park Chan-wook
+453,523. The Call,6.7,1h 34m,2013,thriller,Brad Anderson
+454,524. The Conjuring,7.5,1h 52m,2013,thriller,James Wan
+455,525. The Hunger Games: Catching Fire,7.5,2h 26m,2013,thriller,Francis Lawrence
+456,526. The Returned,5.9,1h 38m,2013,thriller,Manuel Carballo
+457,529. Tony,7.7,2h 16m,2013,thriller,Jayatheertha
+458,532. Vishwaroopam,7.9,2h 28m,2013,thriller,Kamal Haasan
+459,540. Captain America: The Winter Soldier,7.7,2h 16m,2014,thriller,Anthony Russo
+460,542. Cooties,5.7,1h 28m,2014,thriller,Jonathan Milott
+461,543. Unfriended,5.6,1h 23m,2014,thriller,Levan Gabriadze
+462,544. Dawn of the Planet of the Apes,7.6,2h 10m,2014,thriller,Matt Reeves
+463,545. Drishya,8.3,2h 34m,2014,thriller,P. Vasu
+464,548. Godzilla,6.4,2h 3m,2014,thriller,Gareth Edwards
+465,549. Gone Girl,8.1,2h 29m,2014,thriller,David Fincher
+466,551. Haider,8.0,2h 40m,2014,thriller,Vishal Bhardwaj
+467,552. Honeymoon,5.7,1h 27m,2014,thriller,Leigh Janiak
+468,555. It Follows,6.8,1h 40m,2014,thriller,David Robert Mitchell
+469,560. Nightcrawler,7.8,1h 57m,2014,thriller,Dan Gilroy
+470,561. Predestination,7.4,1h 37m,2014,thriller,Michael Spierig
+471,565. The Canal,5.8,1h 32m,2014,thriller,Ivan Kavanagh
+472,566. The Equalizer,7.3,2h 12m,2014,thriller,Antoine Fuqua
+473,568. The Guest,6.7,1h 40m,2014,thriller,Adam Wingard
+474,569. The Maze Runner,6.8,1h 53m,2014,thriller,Wes Ball
+475,570. The Purge: Anarchy,6.4,1h 43m,2014,thriller,James DeMonaco
+476,572. Ugramm,8.0,2h 12m,2014,thriller,Prashanth Neel
+477,573. Ulidavaru Kandanthe,8.4,2h 34m,2014,thriller,Rakshit Shetty
+478,575. White Bird in a Blizzard,6.4,1h 31m,2014,thriller,Gregg Araki
+479,578. X-Men: Days of Future Past,7.9,2h 12m,2014,thriller,Bryan Singer
+480,581. Bridge of Spies,7.6,2h 22m,2015,thriller,Steven Spielberg
+481,583. Crimson Peak,6.5,1h 59m,2015,thriller,Guillermo del Toro
+482,584. Ex Machina,7.7,1h 48m,2014,thriller,Alex Garland
+483,585. Eye in the Sky,7.3,1h 42m,2015,thriller,Gavin Hood
+484,589. Kendasampige,8.3,1h 39m,2015,thriller,Suri
+485,590. Mad Max: Fury Road,8.1,2h,2015,thriller,George Miller
+486,594. RangiTaranga,8.1,2h 29m,2015,thriller,Anup Bhandari
+487,595. Rathaavara,6.2,2h 11m,2015,thriller,Chandrashekar Bandiyappa
+488,596. Room,8.1,1h 58m,2015,thriller,Lenny Abrahamson
+489,604. The Final Girls,6.5,1h 31m,2015,thriller,Todd Strauss-Schulson
+490,606. The Invitation,6.6,1h 40m,2015,thriller,Karyn Kusama
+491,607. The Lobster,7.1,1h 59m,2015,thriller,Yorgos Lanthimos
+492,609. The Sea of Trees,6.1,1h 50m,2015,thriller,Gus Van Sant
+493,610. The Visit,6.3,1h 34m,2015,thriller,M. Night Shyamalan
+494,612. Uppi 2,7.8,2h 15m,2015,thriller,Upendra
+495,613. 10 Cloverfield Lane,7.2,1h 43m,2016,thriller,Dan Trachtenberg
+496,615. Allied,7.1,2h 4m,2016,thriller,Robert Zemeckis
+497,620. Don't Breathe,7.1,1h 28m,2016,thriller,Fede Alvarez
+498,628. Morgan,5.8,1h 32m,2016,thriller,Luke Scott
+499,630. Ouija: Origin of Evil,6.2,1h 39m,2016,thriller,Mike Flanagan
+500,"3. Crouching Tiger, Hidden Dragon",7.9,2h,2000,action,Ang Lee
+501,7. Gladiator,8.5,2h 35m,2000,action,Ridley Scott
+502,8. Gone in 60 Seconds,6.5,1h 58m,2000,action,Dominic Sena
+503,17. Taxi 2,6.5,1h 28m,2000,action,Gérard Krawczyk
+504,21. X-Men,7.3,1h 44m,2000,action,Bryan Singer
+505,29. Kiss of the Dragon,6.6,1h 38m,2001,action,Chris Nahon
+506,32. Lara Croft: Tomb Raider,5.8,1h 40m,2001,action,Simon West
+507,50. Equilibrium,7.3,1h 47m,2002,action,Kurt Wimmer
+508,54. A Peck on the Cheek,8.3,2h 16m,2002,action,Mani Ratnam
+509,56. Minority Report,7.6,2h 25m,2002,action,Steven Spielberg
+510,60. Resident Evil,6.6,1h 40m,2002,action,Paul W.S. Anderson
+511,63. Spider-Man,7.4,2h 1m,2002,action,Sam Raimi
+512,64. The Bourne Identity,7.8,1h 59m,2002,action,Doug Liman
+513,67. The Transporter,6.8,1h 32m,2002,action,Louis Leterrier
+514,76. Daredevil,5.3,1h 43m,2003,action,Mark Steven Johnson
+515,81. Johnny English,6.3,1h 27m,2003,action,Peter Howitt
+516,84. Kill Bill: Vol. 1,8.2,1h 51m,2003,action,Quentin Tarantino
+517,87. Oldboy,8.3,2h,2003,action,Park Chan-wook
+518,88. Pirates of the Caribbean: The Curse of the Black Pearl,8.1,2h 23m,2003,action,Gore Verbinski
+519,91. Taxi 3,5.8,1h 24m,2003,action,Gérard Krawczyk
+520,92. Terminator 3: Rise of the Machines,6.3,1h 49m,2003,action,Jonathan Mostow
+521,93. The League of Extraordinary Gentlemen,5.8,1h 50m,2003,action,Stephen Norrington
+522,94. The Matrix Reloaded,7.2,2h 18m,2003,action,Lana Wachowski
+523,95. The Matrix Revolutions,6.7,2h 9m,2003,action,Lana Wachowski
+524,97. Underworld,7.0,2h 1m,2003,action,Len Wiseman
+525,98. X2: X-Men United,7.4,2h 14m,2003,action,Bryan Singer
+526,101. Alien vs. Predator,5.7,1h 41m,2004,action,Paul W.S. Anderson
+527,105. Cellular,6.5,1h 34m,2004,action,David R. Ellis
+528,107. Collateral,7.5,2h,2004,action,Michael Mann
+529,108. Dawn of the Dead,7.2,1h 41m,2004,action,Zack Snyder
+530,109. District B13,7.1,1h 24m,2004,action,Pierre Morel
+531,116. Hellboy,6.9,2h 2m,2004,action,Guillermo del Toro
+532,"118. I, Robot",7.1,1h 55m,2004,action,Alex Proyas
+533,119. Lakshya,7.8,3h 6m,2004,action,Farhan Akhtar
+534,120. Main Hoon Na,7.1,3h 2m,2004,action,Farah Khan
+535,123. National Treasure,6.9,2h 11m,2004,action,Jon Turteltaub
+536,127. Spider-Man 2,7.5,2h 7m,2004,action,Sam Raimi
+537,132. The Bourne Supremacy,7.7,1h 48m,2004,action,Paul Greengrass
+538,135. The Incredibles,8.0,1h 55m,2004,action,Brad Bird
+539,143. Anniyan,8.3,3h 1m,2005,action,S. Shankar
+540,144. Batman Begins,8.2,2h 20m,2005,action,Christopher Nolan
+541,146. Chaos,6.4,1h 46m,2005,action,Tony Giglio
+542,148. Constantine,7.0,2h 1m,2005,action,Francis Lawrence
+543,154. King Kong,7.2,3h 7m,2005,action,Peter Jackson
+544,158. Mr. & Mrs. Smith,6.5,2h,2005,action,Doug Liman
+545,162. Revolver,6.3,1h 51m,2005,action,Guy Ritchie
+546,163. Serenity,7.8,1h 59m,2005,action,Joss Whedon
+547,170. The Island,6.8,2h 16m,2005,action,Michael Bay
+548,174. V for Vendetta,8.1,2h 12m,2005,action,James McTeigue
+549,175. War of the Worlds,6.5,1h 57m,2005,action,Steven Spielberg
+550,176. 16 Blocks,6.6,1h 42m,2006,action,Richard Donner
+551,177. 300,7.6,1h 57m,2006,action,Zack Snyder
+552,181. Casino Royale,8.0,2h 24m,2006,action,Martin Campbell
+553,183. Crank,6.9,1h 28m,2006,action,Mark Neveldine
+554,184. Deja Vu,7.1,2h 6m,2006,action,Tony Scott
+555,185. Fanaa,7.1,2h 48m,2006,action,Kunal Kohli
+556,191. Mission: Impossible III,6.9,2h 6m,2006,action,J.J. Abrams
+557,196. Pirates of the Caribbean: Dead Man's Chest,7.4,2h 31m,2006,action,Gore Verbinski
+558,210. Vettaiyaadu Vilaiyaadu,7.9,2h 54m,2006,action,Gautham Vasudev Menon
+559,212. 3:10 to Yuma,7.6,2h 2m,2007,action,James Mangold
+560,216. Beowulf,6.3,1h 55m,2007,action,Robert Zemeckis
+561,226. Harry Potter and the Order of the Phoenix,7.5,2h 18m,2007,action,David Yates
+562,227. Hot Fuzz,7.8,2h 1m,2007,action,Edgar Wright
+563,234. Live Free or Die Hard,7.1,2h 8m,2007,action,Len Wiseman
+564,240. Next,6.2,1h 36m,2007,action,Lee Tamahori
+565,243. Om Shanti Om,6.8,2h 42m,2007,action,Farah Khan
+566,244. Pirates of the Caribbean: At World's End,7.1,2h 49m,2007,action,Gore Verbinski
+567,249. Shoot 'Em Up,6.6,1h 26m,2007,action,Michael Davis
+568,250. Shooter,7.1,2h 4m,2007,action,Antoine Fuqua
+569,256. The Bourne Ultimatum,8.0,1h 55m,2007,action,Paul Greengrass
+570,267. Transformers,7.1,2h 24m,2007,action,Michael Bay
+571,271. 24: Redemption,7.4,1h 24m,2008,action,Jon Cassar
+572,277. Death Race,6.4,1h 45m,2008,action,Paul W.S. Anderson
+573,280. Eagle Eye,6.6,1h 58m,2008,action,D.J. Caruso
+574,287. Hancock,6.4,1h 32m,2008,action,Peter Berg
+575,289. Hellboy II: The Golden Army,7.0,2h,2008,action,Guillermo del Toro
+576,291. Indiana Jones and the Kingdom of the Crystal Skull,6.2,2h 2m,2008,action,Steven Spielberg
+577,292. Iron Man,7.9,2h 6m,2008,action,Jon Favreau
+578,294. Kung Fu Panda,7.6,1h 32m,2008,action,Mark Osborne
+579,300. Pineapple Express,6.9,1h 51m,2008,action,David Gordon Green
+580,301. Quantum of Solace,6.5,1h 46m,2008,action,Marc Forster
+581,311. Taken,7.7,1h 30m,2008,action,Pierre Morel
+582,316. The Chronicles of Narnia: Prince Caspian,6.5,2h 30m,2008,action,Andrew Adamson
+583,318. The Dark Knight,9.0,2h 32m,2008,action,Christopher Nolan
+584,320. The Incredible Hulk,6.6,1h 52m,2008,action,Louis Leterrier
+585,324. Traitor,6.9,1h 54m,2008,action,Jeffrey Nachmanoff
+586,328. Vantage Point,6.6,1h 30m,2008,action,Pete Travis
+587,330. Wanted,6.7,1h 50m,2008,action,Timur Bekmambetov
+588,334. 9,7.0,1h 19m,2009,action,Shane Acker
+589,339. Avatar,7.9,2h 42m,2009,action,James Cameron
+590,341. Daybreakers,6.4,1h 38m,2009,action,Michael Spierig
+591,343. District 9,7.9,1h 52m,2009,action,Neill Blomkamp
+592,346. Harry Potter and the Half-Blood Prince,7.6,2h 33m,2009,action,David Yates
+593,357. Sherlock Holmes,7.6,2h 8m,2009,action,Guy Ritchie
+594,359. Star Trek,7.9,2h 7m,2009,action,J.J. Abrams
+595,364. The International,6.5,1h 58m,2009,action,Tom Tykwer
+596,372. Veera Madakari,6.8,2h 55m,2009,action,Sudeep
+597,373. Watchmen,7.6,2h 42m,2009,action,Zack Snyder
+598,374. Zombieland,7.5,1h 28m,2009,action,Ruben Fleischer
+599,382. Green Zone,6.8,1h 55m,2010,action,Paul Greengrass
+600,384. How to Train Your Dragon,8.1,1h 38m,2010,action,Dean DeBlois
+601,385. Inception,8.8,2h 28m,2010,action,Christopher Nolan
+602,387. Jackie,7.5,2h 6m,2010,action,Suri
+603,388. Kick-Ass,7.6,1h 57m,2010,action,Matthew Vaughn
+604,389. Legend of the Guardians: The Owls of Ga'Hoole,6.9,1h 37m,2010,action,Zack Snyder
+605,393. Prince of Persia: The Sands of Time,6.5,1h 56m,2010,action,Mike Newell
+606,394. Repo Men,6.3,1h 51m,2010,action,Miguel Sapochnik
+607,395. Salt,6.5,1h 40m,2010,action,Phillip Noyce
+608,"404. Tomorrow, When the War Began",6.1,1h 44m,2010,action,Stuart Beattie
+609,408. Captain America: The First Avenger,6.9,2h 4m,2011,action,Joe Johnston
+610,410. Cowboys & Aliens,6.0,1h 59m,2011,action,Jon Favreau
+611,414. Drive,7.8,1h 40m,2011,action,Nicolas Winding Refn
+612,415. Fast Five,7.3,2h 10m,2011,action,Justin Lin
+613,416. Hanna,6.7,1h 51m,2011,action,Joe Wright
+614,417. Hudugaru,7.8,2h 28m,2011,action,K. Madesh
+615,421. Kempe Gowda,7.2,2h 21m,2011,action,Sudeep
+616,423. Kung Fu Panda 2,7.3,1h 30m,2011,action,Jennifer Yuh Nelson
+617,428. Rise of the Planet of the Apes,7.6,1h 45m,2011,action,Rupert Wyatt
+618,431. Source Code,7.5,1h 33m,2011,action,Duncan Jones
+619,432. Super 8,7.0,1h 52m,2011,action,J.J. Abrams
+620,434. The Adventures of Tintin,7.3,1h 47m,2011,action,Steven Spielberg
+621,441. Thor,7.0,1h 55m,2011,action,Kenneth Branagh
+622,443. Unknown,6.8,1h 53m,2011,action,Jaume Collet-Serra
+623,444. Vishnuvardhana,7.4,2h 49m,2011,action,Ponkumaran
+624,445. X-Men: First Class,7.7,2h 11m,2011,action,Matthew Vaughn
+625,447. 21 Jump Street,7.2,1h 49m,2012,action,Phil Lord
+626,452. Brave,7.1,1h 33m,2012,action,Mark Andrews
+627,456. Dredd,7.1,1h 35m,2012,action,Pete Travis
+628,457. End of Watch,7.6,1h 49m,2012,action,David Ayer
+629,459. Jack Reacher,7.0,2h 10m,2012,action,Christopher McQuarrie
+630,460. John Carter,6.6,2h 12m,2012,action,Andrew Stanton
+631,463. Looper,7.4,1h 59m,2012,action,Rian Johnson
+632,468. Snow White and the Huntsman,6.1,2h 7m,2012,action,Rupert Sanders
+633,469. Skyfall,7.8,2h 23m,2012,action,Sam Mendes
+634,471. The Avengers,8.0,2h 23m,2012,action,Joss Whedon
+635,472. The Dark Knight Rises,8.4,2h 44m,2012,action,Christopher Nolan
+636,486. After Earth,4.8,1h 40m,2013,action,M. Night Shyamalan
+637,503. Iron Man 3,7.1,2h 10m,2013,action,Shane Black
+638,505. Justice League: The Flashpoint Paradox,8.1,1h 15m,2013,action,Jay Oliva
+639,509. Man of Steel,7.1,2h 23m,2013,action,Zack Snyder
+640,511. Oblivion,7.0,2h 4m,2013,action,Joseph Kosinski
+641,515. Avenged,5.5,1h 35m,2013,action,Michael S. Ojeda
+642,518. Snowpiercer,7.1,2h 6m,2013,action,Bong Joon Ho
+643,521. Star Trek Into Darkness,7.7,2h 12m,2013,action,J.J. Abrams
+644,525. The Hunger Games: Catching Fire,7.5,2h 26m,2013,action,Francis Lawrence
+645,528. Thor: The Dark World,6.7,1h 52m,2013,action,Alan Taylor
+646,532. Vishwaroopam,7.9,2h 28m,2013,action,Kamal Haasan
+647,534. World War Z,7.0,1h 56m,2013,action,Marc Forster
+648,540. Captain America: The Winter Soldier,7.7,2h 16m,2014,action,Anthony Russo
+649,542. Cooties,5.7,1h 28m,2014,action,Jonathan Milott
+650,544. Dawn of the Planet of the Apes,7.6,2h 10m,2014,action,Matt Reeves
+651,546. Edge of Tomorrow,7.9,1h 53m,2014,action,Doug Liman
+652,547. Gajakesari,6.4,2h 45m,2014,action,S Krishna
+653,548. Godzilla,6.4,2h 3m,2014,action,Gareth Edwards
+654,550. Guardians of the Galaxy,8.0,2h 1m,2014,action,James Gunn
+655,557. Maleficent,6.9,1h 37m,2014,action,Robert Stromberg
+656,561. Predestination,7.4,1h 37m,2014,action,Michael Spierig
+657,566. The Equalizer,7.3,2h 12m,2014,action,Antoine Fuqua
+658,568. The Guest,6.7,1h 40m,2014,action,Adam Wingard
+659,569. The Maze Runner,6.8,1h 53m,2014,action,Wes Ball
+660,570. The Purge: Anarchy,6.4,1h 43m,2014,action,James DeMonaco
+661,572. Ugramm,8.0,2h 12m,2014,action,Prashanth Neel
+662,578. X-Men: Days of Future Past,7.9,2h 12m,2014,action,Bryan Singer
+663,579. American Ultra,6.1,1h 36m,2015,action,Nima Nourizadeh
+664,580. Bajrangi Bhaijaan,8.1,2h 43m,2015,action,Kabir Khan
+665,585. Eye in the Sky,7.3,1h 42m,2015,action,Gavin Hood
+666,588. Jurassic World,6.9,2h 4m,2015,action,Colin Trevorrow
+667,590. Mad Max: Fury Road,8.1,2h,2015,action,George Miller
+668,591. Master Piece,6.2,2h 38m,2015,action,Manju Mandavya
+669,599. Spy,7.0,2h,2015,action,Paul Feig
+670,612. Uppi 2,7.8,2h 15m,2015,action,Upendra
+671,615. Allied,7.1,2h 4m,2016,action,Robert Zemeckis
+672,618. Captain America: Civil War,7.8,2h 27m,2016,action,Anthony Russo
+673,623. Killing Veerappan,7.0,2h 31m,2016,action,Ram Gopal Varma
+674,628. Morgan,5.8,1h 32m,2016,action,Luke Scott
+675,636. Star Trek Beyond,7.0,2h 2m,2016,action,Justin Lin
+676,638. The Girl with All the Gifts,6.6,1h 51m,2016,action,Colm McCarthy
+677,641. The Jungle Book,7.3,1h 46m,2016,action,Jon Favreau
+678,642. The Legend of Tarzan,6.2,1h 50m,2016,action,David Yates
+679,644. The Nice Guys,7.4,1h 56m,2016,action,Shane Black
+680,646. The Purge: Election Year,6.0,1h 48m,2016,action,James DeMonaco
+681,650. Santhu Straight Forward,6.5,2h 39m,2016,action,Mahesh Rao
+682,651. American Made,7.1,1h 55m,2017,action,Doug Liman
+683,655. Logan,8.1,2h 17m,2017,action,James Mangold
+684,656. Risen,6.3,1h 47m,2016,action,Kevin Reynolds
+685,659. Teenage Mutant Ninja Turtles: Out of the Shadows,5.9,1h 52m,2016,action,Dave Green
+686,661. Thor: Ragnarok,7.9,2h 10m,2017,action,Taika Waititi
+687,665. Valerian and the City of a Thousand Planets,6.4,2h 16m,2017,action,Luc Besson
+688,667. Free State of Jones,6.9,2h 19m,2016,action,Gary Ross
+689,670. Black Hawk Down,7.7,2h 24m,2001,action,Ridley Scott
+690,674. The Count of Monte Cristo,7.7,2h 11m,2002,action,Kevin Reynolds
+691,676. Tagaru,7.9,2h 9m,2018,action,Suri
+692,681. Jumanji: Welcome to the Jungle,7.0,1h 59m,2017,action,Jake Kasdan
+693,686. Blade Runner 2049,8.0,2h 44m,2017,action,Denis Villeneuve
+694,692. Avengers: Infinity War,8.4,2h 29m,2018,action,Anthony Russo
+695,694. Venom,6.6,1h 52m,2018,action,Ruben Fleischer
+696,698. K.G.F: Chapter 1,8.2,2h 34m,2018,action,Prashanth Neel
+697,700. Mission: Impossible - Fallout,7.7,2h 27m,2018,action,Christopher McQuarrie
+698,705. Mortal Engines,6.1,2h 8m,2018,action,Christian Rivers
+699,708. Aquaman,6.8,2h 23m,2018,action,James Wan
+700,709. Spider-Man: Into the Spider-Verse,8.4,1h 57m,2018,action,Bob Persichetti
+701,713. Avengers: Endgame,8.4,3h 1m,2019,action,Anthony Russo
+702,719. Alita: Battle Angel,7.3,2h 2m,2019,action,Robert Rodriguez
+703,720. Reindeer Games,5.8,1h 44m,2000,action,John Frankenheimer
+704,724. Upgrade,7.5,1h 40m,2018,action,Leigh Whannell
+705,725. Ready or Not,6.8,1h 35m,2019,action,Matt Bettinelli-Olpin
+706,726. Pailwaan,6.2,2h 46m,2019,action,S Krishna
+707,727. Charlie's Angels,5.0,1h 58m,2019,action,Elizabeth Banks
+708,730. Dangal,8.3,2h 41m,2016,action,Nitesh Tiwari
+709,732. Avane Srimannarayana,7.6,3h 6m,2019,action,Sachin Ravi
+710,737. Ford v Ferrari,8.1,2h 32m,2019,action,James Mangold
+711,739. Zombieland: Double Tap,6.7,1h 39m,2019,action,Ruben Fleischer
+712,742. Gentleman,6.8,2h 24m,2020,action,Jadesh Kumar
+713,746. Wonder Woman,7.3,2h 21m,2017,action,Patty Jenkins
+714,752. Jumanji: The Next Level,6.6,2h 3m,2019,action,Jake Kasdan
+715,754. Game Night,6.9,1h 40m,2018,action,John Francis Daley
+716,757. Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,6.1,1h 49m,2020,action,Cathy Yan
+717,758. Mayhem,6.4,1h 26m,2017,action,Joe Lynch
+718,760. The Man from U.N.C.L.E.,7.2,1h 56m,2015,action,Guy Ritchie
+719,762. The Hunt,6.6,1h 30m,2020,action,Craig Zobel
+720,763. Guns Akimbo,6.3,1h 38m,2019,action,Jason Howden
+721,764. Underwater,5.9,1h 35m,2020,action,William Eubank
+722,765. Extraction,6.8,1h 56m,2020,action,Sam Hargrave
+723,767. Polar,6.3,1h 58m,2019,action,Jonas Åkerlund
+724,770. Bad Boys II,6.6,2h 27m,2003,action,Michael Bay
+725,771. Spies in Disguise,6.8,1h 42m,2019,action,Nick Bruno
+726,774. Pete's Dragon,6.7,1h 42m,2016,action,David Lowery
+727,779. Zack Snyder's Justice League,7.9,4h 2m,2021,action,Zack Snyder
+728,782. Boss Level,6.8,1h 40m,2020,action,Joe Carnahan
+729,783. Love and Monsters,6.9,1h 49m,2020,action,Michael Matthews
+730,784. Train to Busan,7.6,1h 58m,2016,action,Yeon Sang-ho
+731,785. Godzilla vs. Kong,6.3,1h 53m,2021,action,Adam Wingard
+732,787. Office Uprising,5.7,1h 32m,2018,action,Lin Oeding
+733,788. Nobody,7.4,1h 32m,2021,action,Ilya Naishuller
+734,789. Willy's Wonderland,5.5,1h 28m,2021,action,Kevin Lewis
+735,792. Unhinged,6.0,1h 30m,2020,action,Derrick Borte
+736,793. Baby Driver,7.5,1h 53m,2017,action,Edgar Wright
+737,796. The Suicide Squad,7.2,2h 12m,2021,action,James Gunn
+738,797. Red Notice,6.3,1h 58m,2021,action,Rawson Marshall Thurber
+739,805. The Lost City,6.1,1h 52m,2022,action,Aaron Nee
+740,807. The Unbearable Weight of Massive Talent,7.0,1h 47m,2022,action,Tom Gormican
+741,809. Prey,7.1,1h 40m,2022,action,Dan Trachtenberg
+742,810. Everything Everywhere All at Once,7.8,2h 19m,2022,action,Daniel Kwan
+743,811. The Gray Man,6.5,2h 2m,2022,action,Joe Russo
+744,812. Top Gun: Maverick,8.2,2h 10m,2022,action,Joseph Kosinski
+745,813. Kantara,8.2,2h 28m,2022,action,Rishab Shetty
+746,815. Plane,6.5,1h 47m,2023,action,Jean-François Richet
+747,818. RRR,7.8,3h 7m,2022,action,S.S. Rajamouli
+748,820. Pandorum,6.7,1h 48m,2009,action,Christian Alvart
+749,822. Dracula Untold,6.2,1h 32m,2014,action,Gary Shore
+750,9. How the Grinch Stole Christmas,6.4,1h 44m,2000,comedy,Ron Howard
+751,11. Meet the Parents,7.0,1h 48m,2000,comedy,Jay Roach
+752,15. Road Trip,6.5,1h 33m,2000,comedy,Todd Phillips
+753,16. Snatch,8.2,1h 42m,2000,comedy,Guy Ritchie
+754,17. Taxi 2,6.5,1h 28m,2000,comedy,Gérard Krawczyk
+755,23. American Pie 2,6.4,1h 48m,2001,comedy,J.B. Rogers
+756,24. Dil Chahta Hai,8.0,3h 3m,2001,comedy,Farhan Akhtar
+757,26. Gosford Park,7.2,2h 17m,2001,comedy,Robert Altman
+758,"30. Monsters, Inc.",8.1,1h 32m,2001,comedy,Pete Docter
+759,33. No Man's Land,7.9,1h 38m,2001,comedy,Danis Tanovic
+760,38. Shrek,7.9,1h 30m,2001,comedy,Andrew Adamson
+761,47. Bend It Like Beckham,6.7,1h 52m,2002,comedy,Gurinder Chadha
+762,52. Ice Age,7.5,1h 21m,2002,comedy,Chris Wedge
+763,55. Makdee,7.5,1h 30m,2002,comedy,Vishal Bhardwaj
+764,57. My Big Fat Greek Wedding,6.6,1h 35m,2002,comedy,Joel Zwick
+765,61. Secretary,6.9,1h 47m,2002,comedy,Steven Shainberg
+766,68. Van Wilder,6.4,1h 32m,2002,comedy,Walt Becker
+767,69. 11:14,7.1,1h 26m,2003,comedy,Greg Marcks
+768,70. American Wedding,6.3,1h 36m,2003,comedy,Jesse Dylan
+769,72. Bad Santa,7.0,1h 32m,2003,comedy,Terry Zwigoff
+770,73. Boys,7.2,2h 52m,2003,comedy,S. Shankar
+771,74. Bruce Almighty,6.8,1h 41m,2003,comedy,Tom Shadyac
+772,78. Freaky Friday,6.3,1h 37m,2003,comedy,Mark Waters
+773,79. Holes,7.0,1h 57m,2003,comedy,Andrew Davis
+774,81. Johnny English,6.3,1h 27m,2003,comedy,Peter Howitt
+775,82. Kal Ho Naa Ho,7.9,3h 6m,2003,comedy,Nikkhil Advani
+776,86. Munna Bhai M.B.B.S.,8.1,2h 36m,2003,comedy,Rajkumar Hirani
+777,89. Raktha Kanneeru,8.2,2h 29m,2003,comedy,Sadhu Kokila
+778,91. Taxi 3,5.8,1h 24m,2003,comedy,Gérard Krawczyk
+779,99. 50 First Dates,6.8,1h 39m,2004,comedy,Peter Segal
+780,103. A Series of Unfortunate Events,6.8,1h 48m,2004,comedy,Brad Silberling
+781,106. Chasing Liberty,6.1,1h 51m,2004,comedy,Andy Cadiff
+782,110. Ella Enchanted,6.3,1h 36m,2004,comedy,Tommy O'Haver
+783,112. EuroTrip,6.6,1h 32m,2004,comedy,Jeff Schaffer
+784,114. Harold & Kumar Go to White Castle,7.0,1h 28m,2004,comedy,Danny Leiner
+785,117. Hum Tum,7.0,2h 23m,2004,comedy,Kunal Kohli
+786,120. Main Hoon Na,7.1,3h 2m,2004,comedy,Farah Khan
+787,121. Mean Girls,7.1,1h 37m,2004,comedy,Mark Waters
+788,122. Napoleon Dynamite,7.0,1h 36m,2004,comedy,Jared Hess
+789,125. Shaun of the Dead,7.9,1h 39m,2004,comedy,Edgar Wright
+790,129. Swing Girls,7.5,1h 44m,2004,comedy,Shinobu Yaguchi
+791,138. The Terminal,7.4,2h 8m,2004,comedy,Steven Spielberg
+792,141. Wimbledon,6.3,1h 38m,2004,comedy,Richard Loncraine
+793,142. Windstruck,7.1,2h 3m,2004,comedy,Jae-young Kwak
+794,145. Bewitched,4.8,1h 42m,2005,comedy,Nora Ephron
+795,147. Charlie and the Chocolate Factory,6.7,1h 55m,2005,comedy,Tim Burton
+796,149. Corpse Bride,7.4,1h 17m,2005,comedy,Tim Burton
+797,156. Madagascar,6.9,1h 26m,2005,comedy,Eric Darnell
+798,158. Mr. & Mrs. Smith,6.5,2h,2005,comedy,Doug Liman
+799,159. Nanny McPhee,6.6,1h 37m,2005,comedy,Kirk Jones
+800,161. Rama Shama Bhama,8.0,3h,2005,comedy,Ramesh Aravind
+801,164. The 40-Year-Old Virgin,7.1,1h 56m,2005,comedy,Judd Apatow
+802,169. The Hitchhiker's Guide to the Galaxy,6.7,1h 49m,2005,comedy,Garth Jennings
+803,173. The Sisterhood of the Traveling Pants,6.5,1h 59m,2005,comedy,Ken Kwapis
+804,180. Bommarillu,8.2,2h 50m,2006,comedy,Bommarillu Baskar
+805,187. Lage Raho Munna Bhai,8.0,2h 24m,2006,comedy,Rajkumar Hirani
+806,190. Mata,8.5,2h 23m,2006,comedy,Guruprasad
+807,192. Monster House,6.7,1h 31m,2006,comedy,Gil Kenan
+808,193. Mungaru Male,8.4,2h 23m,2006,comedy,Yograj Bhat
+809,197. Rang De Basanti,8.1,2h 47m,2006,comedy,Rakeysh Omprakash Mehra
+810,198. She's the Man,6.4,1h 45m,2006,comedy,Andy Fickman
+811,199. Starter for 10,6.7,1h 32m,2006,comedy,Tom Vaughan
+812,200. The Ant Bully,5.8,1h 28m,2006,comedy,John A. Davis
+813,204. The Girl Who Leapt Through Time,7.7,1h 38m,2006,comedy,Mamoru Hosoda
+814,220. Dan in Real Life,6.8,1h 38m,2007,comedy,Peter Hedges
+815,223. Enchanted,7.1,1h 47m,2007,comedy,Kevin Lima
+816,227. Hot Fuzz,7.8,2h 1m,2007,comedy,Edgar Wright
+817,230. Jab We Met,7.9,2h 18m,2007,comedy,Imtiaz Ali
+818,231. Juno,7.4,1h 36m,2007,comedy,Jason Reitman
+819,232. Knocked Up,6.9,2h 9m,2007,comedy,Judd Apatow
+820,235. Meet the Robinsons,6.8,1h 35m,2007,comedy,Stephen J. Anderson
+821,239. Nancy Drew,5.9,1h 39m,2007,comedy,Andrew Fleming
+822,243. Om Shanti Om,6.8,2h 42m,2007,comedy,Farah Khan
+823,245. P.S. I Love You,7.0,2h 6m,2007,comedy,Richard LaGravenese
+824,246. Ratatouille,8.1,1h 51m,2007,comedy,Brad Bird
+825,249. Shoot 'Em Up,6.6,1h 26m,2007,comedy,Michael Davis
+826,252. Superbad,7.6,1h 53m,2007,comedy,Greg Mottola
+827,255. Teeth,5.4,1h 34m,2007,comedy,Mitchell Lichtenstein
+828,257. The Bucket List,7.4,1h 37m,2007,comedy,Rob Reiner
+829,258. The Cake Eaters,6.3,1h 26m,2007,comedy,Mary Stuart Masterson
+830,259. The Game Plan,6.4,1h 50m,2007,comedy,Andy Fickman
+831,"272. Angus, Thongs and Perfect Snogging",6.3,1h 40m,2008,comedy,Gurinder Chadha
+832,276. CJ7,6.4,1h 28m,2008,comedy,Stephen Chow
+833,"278. Definitely, Maybe",7.1,1h 52m,2008,comedy,Adam Brooks
+834,284. Gaalipata,8.3,2h 26m,2008,comedy,Yograj Bhat
+835,285. Ghost Town,6.7,1h 42m,2008,comedy,David Koepp
+836,287. Hancock,6.4,1h 32m,2008,comedy,Peter Berg
+837,288. Harold & Kumar Escape from Guantanamo Bay,6.5,1h 54m,2008,comedy,Jon Hurwitz
+838,290. Horton Hears a Who!,6.8,1h 26m,2008,comedy,Jimmy Hayward
+839,293. Jaane Tu... Ya Jaane Na,7.4,2h 35m,2008,comedy,Abbas Tyrewala
+840,294. Kung Fu Panda,7.6,1h 32m,2008,comedy,Mark Osborne
+841,299. Nick and Norah's Infinite Playlist,6.6,1h 30m,2008,comedy,Peter Sollett
+842,300. Pineapple Express,6.9,1h 51m,2008,comedy,David Gordon Green
+843,303. Rab Ne Bana Di Jodi,7.2,2h 47m,2008,comedy,Aditya Chopra
+844,306. Role Models,6.8,1h 39m,2008,comedy,David Wain
+845,308. Sex Drive,6.5,1h 49m,2008,comedy,Sean Anders
+846,310. Step Brothers,6.9,1h 38m,2008,comedy,Adam McKay
+847,323. The Sisterhood of the Traveling Pants 2,6.2,1h 59m,2008,comedy,Sanaa Hamri
+848,331. Yes Man,6.8,1h 44m,2008,comedy,Peyton Reed
+849,332. Zack and Miri Make a Porno,6.5,1h 41m,2008,comedy,Kevin Smith
+850,333. 3 Idiots,8.4,2h 50m,2009,comedy,Rajkumar Hirani
+851,335. 500 Days of Summer,7.7,1h 35m,2009,comedy,Marc Webb
+852,336. Adventureland,6.8,1h 47m,2009,comedy,Greg Mottola
+853,338. A Serious Man,7.0,1h 46m,2009,comedy,Ethan Coen
+854,342. Defendor,6.7,1h 41m,2009,comedy,Peter Stebbings
+855,345. Fired Up!,6.1,1h 30m,2009,comedy,Will Gluck
+856,"347. I Love You, Man",7.0,1h 45m,2009,comedy,John Hamburg
+857,349. Jennifer's Body,5.5,1h 42m,2009,comedy,Karyn Kusama
+858,351. Love Aaj Kal,6.8,2h 8m,2009,comedy,Imtiaz Ali
+859,352. Maleyali Jotheyali,7.1,2h 18m,2009,comedy,Preetham Gubbi
+860,363. The Hangover,7.7,1h 40m,2009,comedy,Todd Phillips
+861,365. The Invention of Lying,6.4,1h 40m,2009,comedy,Ricky Gervais
+862,367. The Proposal,6.8,1h 48m,2009,comedy,Anne Fletcher
+863,370. Up,8.3,1h 36m,2009,comedy,Pete Docter
+864,371. Up in the Air,7.4,1h 49m,2009,comedy,Jason Reitman
+865,374. Zombieland,7.5,1h 28m,2009,comedy,Ruben Fleischer
+866,376. Beginners,7.2,1h 45m,2010,comedy,Mike Mills
+867,378. Despicable Me,7.6,1h 35m,2010,comedy,Pierre Coffin
+868,387. Jackie,7.5,2h 6m,2010,comedy,Suri
+869,388. Kick-Ass,7.6,1h 57m,2010,comedy,Matthew Vaughn
+870,390. Love & Other Drugs,6.7,1h 52m,2010,comedy,Edward Zwick
+871,398. Tangled,7.7,1h 40m,2010,comedy,Nathan Greno
+872,405. Toy Story 3,8.3,1h 43m,2010,comedy,Lee Unkrich
+873,"411. Crazy, Stupid, Love.",7.4,1h 58m,2011,comedy,Glenn Ficarra
+874,412. Damsels in Distress,5.8,1h 39m,2011,comedy,Whit Stillman
+875,413. Detention,5.6,1h 33m,2011,comedy,Joseph Kahn
+876,422. Kiraathaka,7.5,2h 41m,2011,comedy,Pradeep Raj
+877,423. Kung Fu Panda 2,7.3,1h 30m,2011,comedy,Jennifer Yuh Nelson
+878,427. Rio,6.9,1h 36m,2011,comedy,Carlos Saldanha
+879,435. The Artist,7.8,1h 40m,2011,comedy,Michel Hazanavicius
+880,436. The Descendants,7.3,1h 55m,2011,comedy,Alexander Payne
+881,"442. Turn Me On, Dammit!",6.3,1h 16m,2011,comedy,Jannicke Systad Jacobsen
+882,444. Vishnuvardhana,7.4,2h 49m,2011,comedy,Ponkumaran
+883,447. 21 Jump Street,7.2,1h 49m,2012,comedy,Phil Lord
+884,448. American Reunion,6.7,1h 53m,2012,comedy,Jon Hurwitz
+885,451. Barfi!,8.1,2h 31m,2012,comedy,Anurag Basu
+886,452. Brave,7.1,1h 33m,2012,comedy,Mark Andrews
+887,455. Django Unchained,8.5,2h 45m,2012,comedy,Quentin Tarantino
+888,465. Romeo,6.7,2h 35m,2012,comedy,PC Shekar
+889,466. Safety Not Guaranteed,6.9,1h 26m,2012,comedy,Colin Trevorrow
+890,480. Vicky Donor,7.7,2h 6m,2012,comedy,Shoojit Sircar
+891,481. Wadjda,7.5,1h 38m,2012,comedy,Haifaa Al-Mansour
+892,482. Wreck-It Ralph,7.7,1h 41m,2012,comedy,Rich Moore
+893,485. About Time,7.8,2h 3m,2013,comedy,Richard Curtis
+894,493. Blue Jasmine,7.3,1h 38m,2013,comedy,Woody Allen
+895,497. Director's Special,7.5,N/A,2013,comedy,Guruprasad
+896,499. Frozen,7.4,1h 42m,2013,comedy,Chris Buck
+897,513. Raja Rani,7.6,2h 40m,2013,comedy,Atlee
+898,516. Saving Mr. Banks,7.5,2h 5m,2013,comedy,John Lee Hancock
+899,517. Simple Agi Ondh Love Story,8.0,2h 10m,2013,comedy,Suni
+900,519. Soodhu Kavvum,8.3,2h 15m,2013,comedy,Nalan Kumarasamy
+901,531. Victory,7.2,N/A,2013,comedy,Nanda Kishore
+902,533. Queen,8.1,2h 26m,2013,comedy,Vikas Bahl
+903,535. What If,6.8,1h 38m,2013,comedy,Michael Dowse
+904,536. Adhyaksha,7.4,2h 27m,2014,comedy,Nanda Kishore
+905,537. Birdman or (The Unexpected Virtue of Ignorance),7.7,1h 59m,2014,comedy,Alejandro G. Iñárritu
+906,542. Cooties,5.7,1h 28m,2014,comedy,Jonathan Milott
+907,550. Guardians of the Galaxy,8.0,2h 1m,2014,comedy,James Gunn
+908,553. Housebound,6.7,1h 47m,2014,comedy,Gerard Johnstone
+909,556. Jai Lalitha,6.8,N/A,2014,comedy,Ponkumaran
+910,571. Tusk,5.4,1h 42m,2014,comedy,Kevin Smith
+911,579. American Ultra,6.1,1h 36m,2015,comedy,Nima Nourizadeh
+912,580. Bajrangi Bhaijaan,8.1,2h 43m,2015,comedy,Kabir Khan
+913,587. Goosebumps,6.3,1h 43m,2015,comedy,Rob Letterman
+914,591. Master Piece,6.2,2h 38m,2015,comedy,Manju Mandavya
+915,592. Me and Earl and the Dying Girl,7.7,1h 45m,2015,comedy,Alfonso Gomez-Rejon
+916,599. Spy,7.0,2h,2015,comedy,Paul Feig
+917,600. The Big Short,7.8,2h 10m,2015,comedy,Adam McKay
+918,602. The Diary of a Teenage Girl,6.8,1h 42m,2015,comedy,Marielle Heller
+919,603. The DUFF,6.4,1h 41m,2015,comedy,Ari Sandel
+920,604. The Final Girls,6.5,1h 31m,2015,comedy,Todd Strauss-Schulson
+921,605. The Intern,7.1,2h 1m,2015,comedy,Nancy Meyers
+922,614. A Hologram for the King,6.1,1h 38m,2016,comedy,Tom Tykwer
+923,619. Colossal,6.2,1h 49m,2016,comedy,Nacho Vigalondo
+924,622. Hunt for the Wilderpeople,7.8,1h 41m,2016,comedy,Taika Waititi
+925,624. Kirik Party,8.2,2h 39m,2016,comedy,Rishab Shetty
+926,626. La La Land,8.0,2h 8m,2016,comedy,Damien Chazelle
+927,629. Neighbors 2: Sorority Rising,5.7,1h 32m,2016,comedy,Nicholas Stoller
+928,644. The Nice Guys,7.4,1h 56m,2016,comedy,Shane Black
+929,651. American Made,7.1,1h 55m,2017,comedy,Doug Liman
+930,652. Chamak,6.7,2h 35m,2017,comedy,Suni
+931,657. Story of an Egg,7.9,2h 4m,2017,comedy,Raj B. Shetty
+932,659. Teenage Mutant Ninja Turtles: Out of the Shadows,5.9,1h 52m,2016,comedy,Dave Green
+933,660. Happy Death Day,6.6,1h 36m,2017,comedy,Christopher Landon
+934,661. Thor: Ragnarok,7.9,2h 10m,2017,comedy,Taika Waititi
+935,662. Heartbreakers,6.3,2h 3m,2001,comedy,David Mirkin
+936,663. Operation Alamelamma,7.9,2h 18m,2017,comedy,Suni
+937,668. Matchstick Men,7.3,1h 56m,2003,comedy,Ridley Scott
+938,672. Florence Foster Jenkins,6.8,1h 51m,2016,comedy,Stephen Frears
+939,"678. I, Tonya",7.5,1h 59m,2017,comedy,Craig Gillespie
+940,"679. Three Billboards Outside Ebbing, Missouri",8.1,1h 55m,2017,comedy,Martin McDonagh
+941,680. Lady Bird,7.4,1h 34m,2017,comedy,Greta Gerwig
+942,681. Jumanji: Welcome to the Jungle,7.0,1h 59m,2017,comedy,Jake Kasdan
+943,689. Legally Blonde,6.5,1h 36m,2001,comedy,Robert Luketic
+944,690. A Lot Like Love,6.6,1h 47m,2005,comedy,Nigel Cole
+945,695. Sankashta Kara Ganapathi,6.6,1h 56m,2018,comedy,Arjun Kumar
+946,696. A Simple Favor,6.8,1h 57m,2018,comedy,Paul Feig
+947,701. Blockers,6.2,1h 42m,2018,comedy,Kay Cannon
+948,702. Destination Wedding,6.0,1h 27m,2018,comedy,Victor Levin
+949,703. The Favourite,7.5,1h 59m,2018,comedy,Yorgos Lanthimos
+950,704. Eighth Grade,7.3,1h 33m,2018,comedy,Bo Burnham
+951,706. Instant Family,7.3,1h 58m,2018,comedy,Sean Anders
+952,707. Green Book,8.2,2h 10m,2018,comedy,Peter Farrelly
+953,709. Spider-Man: Into the Spider-Verse,8.4,1h 57m,2018,comedy,Bob Persichetti
+954,711. The Babysitter,6.4,1h 25m,2017,comedy,McG
+955,714. Happy Death Day 2U,6.2,1h 40m,2019,comedy,Christopher Landon
+956,715. Booksmart,7.1,1h 42m,2019,comedy,Olivia Wilde
+957,725. Ready or Not,6.8,1h 35m,2019,comedy,Matt Bettinelli-Olpin
+958,727. Charlie's Angels,5.0,1h 58m,2019,comedy,Elizabeth Banks
+959,732. Avane Srimannarayana,7.6,3h 6m,2019,comedy,Sachin Ravi
+960,733. BlacKkKlansman,7.5,2h 15m,2018,comedy,Spike Lee
+961,734. Finding Nemo,8.2,1h 40m,2003,comedy,Andrew Stanton
+962,735. Once Upon a Time... in Hollywood,7.6,2h 41m,2019,comedy,Quentin Tarantino
+963,739. Zombieland: Double Tap,6.7,1h 39m,2019,comedy,Ruben Fleischer
+964,740. Missing Link,6.7,1h 33m,2019,comedy,Chris Butler
+965,741. The Two Popes,7.6,2h 5m,2019,comedy,Fernando Meirelles
+966,743. Knives Out,7.9,2h 10m,2019,comedy,Rian Johnson
+967,744. Mary Poppins Returns,6.7,2h 10m,2018,comedy,Rob Marshall
+968,747. Pokémon: Detective Pikachu,6.5,1h 44m,2019,comedy,Rob Letterman
+969,748. The House with a Clock in Its Walls,6.1,1h 45m,2018,comedy,Eli Roth
+970,752. Jumanji: The Next Level,6.6,2h 3m,2019,comedy,Jake Kasdan
+971,754. Game Night,6.9,1h 40m,2018,comedy,John Francis Daley
+972,757. Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,6.1,1h 49m,2020,comedy,Cathy Yan
+973,758. Mayhem,6.4,1h 26m,2017,comedy,Joe Lynch
+974,760. The Man from U.N.C.L.E.,7.2,1h 56m,2015,comedy,Guy Ritchie
+975,763. Guns Akimbo,6.3,1h 38m,2019,comedy,Jason Howden
+976,768. Late Night,6.5,1h 42m,2019,comedy,Nisha Ganatra
+977,770. Bad Boys II,6.6,2h 27m,2003,comedy,Michael Bay
+978,771. Spies in Disguise,6.8,1h 42m,2019,comedy,Nick Bruno
+979,772. The Edge of Seventeen,7.3,1h 44m,2016,comedy,Kelly Fremon Craig
+980,774. Pete's Dragon,6.7,1h 42m,2016,comedy,David Lowery
+981,775. Borat,7.4,1h 24m,2006,comedy,Larry Charles
+982,777. Happiest Season,6.6,1h 42m,2020,comedy,Clea DuVall
+983,778. Freaky,6.3,1h 42m,2020,comedy,Christopher Landon
+984,781. Palm Springs,7.4,1h 30m,2020,comedy,Max Barbakow
+985,782. Boss Level,6.8,1h 40m,2020,comedy,Joe Carnahan
+986,783. Love and Monsters,6.9,1h 49m,2020,comedy,Michael Matthews
+987,787. Office Uprising,5.7,1h 32m,2018,comedy,Lin Oeding
+988,789. Willy's Wonderland,5.5,1h 28m,2021,comedy,Kevin Lewis
+989,791. Jojo Rabbit,7.9,1h 48m,2019,comedy,Taika Waititi
+990,794. Cruella,7.3,2h 14m,2021,comedy,Craig Gillespie
+991,796. The Suicide Squad,7.2,2h 12m,2021,comedy,James Gunn
+992,797. Red Notice,6.3,1h 58m,2021,comedy,Rawson Marshall Thurber
+993,799. Don't Look Up,7.2,2h 18m,2021,comedy,Adam McKay
+994,800. Ghostbusters: Afterlife,7.0,2h 4m,2021,comedy,Jason Reitman
+995,801. What We Do in the Shadows,7.6,1h 26m,2014,comedy,Jemaine Clement
+996,802. Chemistry of Kariyappa,6.9,2h 8m,2019,comedy,Kumar
+997,805. The Lost City,6.1,1h 52m,2022,comedy,Aaron Nee
+998,807. The Unbearable Weight of Massive Talent,7.0,1h 47m,2022,comedy,Tom Gormican
+999,808. 777 Charlie,8.7,2h 44m,2022,comedy,Kiranraj K
+1000,2. Battle Royale,7.5,1h 54m,2000,adventure,Kinji Fukasaku
+1001,"3. Crouching Tiger, Hidden Dragon",7.9,2h,2000,adventure,Ang Lee
+1002,7. Gladiator,8.5,2h 35m,2000,adventure,Ridley Scott
+1003,21. X-Men,7.3,1h 44m,2000,adventure,Bryan Singer
+1004,22. A.I. Artificial Intelligence,7.2,2h 26m,2001,adventure,Steven Spielberg
+1005,27. Harry Potter and the Sorcerer's Stone,7.7,2h 32m,2001,adventure,Chris Columbus
+1006,"30. Monsters, Inc.",8.1,1h 32m,2001,adventure,Pete Docter
+1007,32. Lara Croft: Tomb Raider,5.8,1h 40m,2001,adventure,Simon West
+1008,38. Shrek,7.9,1h 30m,2001,adventure,Andrew Adamson
+1009,40. The Lord of the Rings: The Fellowship of the Ring,8.9,2h 58m,2001,adventure,Peter Jackson
+1010,51. Harry Potter and the Chamber of Secrets,7.4,2h 41m,2002,adventure,Chris Columbus
+1011,52. Ice Age,7.5,1h 21m,2002,adventure,Chris Wedge
+1012,63. Spider-Man,7.4,2h 1m,2002,adventure,Sam Raimi
+1013,65. The Lord of the Rings: The Two Towers,8.8,2h 59m,2002,adventure,Peter Jackson
+1014,75. Cold Mountain,7.2,2h 34m,2003,adventure,Anthony Minghella
+1015,79. Holes,7.0,1h 57m,2003,adventure,Andrew Davis
+1016,81. Johnny English,6.3,1h 27m,2003,adventure,Peter Howitt
+1017,88. Pirates of the Caribbean: The Curse of the Black Pearl,8.1,2h 23m,2003,adventure,Gore Verbinski
+1018,93. The League of Extraordinary Gentlemen,5.8,1h 50m,2003,adventure,Stephen Norrington
+1019,101. Alien vs. Predator,5.7,1h 41m,2004,adventure,Paul W.S. Anderson
+1020,103. A Series of Unfortunate Events,6.8,1h 48m,2004,adventure,Brad Silberling
+1021,114. Harold & Kumar Go to White Castle,7.0,1h 28m,2004,adventure,Danny Leiner
+1022,115. Harry Potter and the Prisoner of Azkaban,7.9,2h 22m,2004,adventure,Alfonso Cuarón
+1023,116. Hellboy,6.9,2h 2m,2004,adventure,Guillermo del Toro
+1024,123. National Treasure,6.9,2h 11m,2004,adventure,Jon Turteltaub
+1025,127. Spider-Man 2,7.5,2h 7m,2004,adventure,Sam Raimi
+1026,135. The Incredibles,8.0,1h 55m,2004,adventure,Brad Bird
+1027,140. Troy,7.3,2h 43m,2004,adventure,Wolfgang Petersen
+1028,147. Charlie and the Chocolate Factory,6.7,1h 55m,2005,adventure,Tim Burton
+1029,152. Harry Potter and the Goblet of Fire,7.7,2h 37m,2005,adventure,Mike Newell
+1030,154. King Kong,7.2,3h 7m,2005,adventure,Peter Jackson
+1031,156. Madagascar,6.9,1h 26m,2005,adventure,Eric Darnell
+1032,163. Serenity,7.8,1h 59m,2005,adventure,Joss Whedon
+1033,"165. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9,2h 23m,2005,adventure,Andrew Adamson
+1034,166. The Descent,7.2,1h 39m,2005,adventure,Neil Marshall
+1035,169. The Hitchhiker's Guide to the Galaxy,6.7,1h 49m,2005,adventure,Garth Jennings
+1036,175. War of the Worlds,6.5,1h 57m,2005,adventure,Steven Spielberg
+1037,181. Casino Royale,8.0,2h 24m,2006,adventure,Martin Campbell
+1038,191. Mission: Impossible III,6.9,2h 6m,2006,adventure,J.J. Abrams
+1039,196. Pirates of the Caribbean: Dead Man's Chest,7.4,2h 31m,2006,adventure,Gore Verbinski
+1040,200. The Ant Bully,5.8,1h 28m,2006,adventure,John A. Davis
+1041,203. The Fall,7.8,1h 57m,2006,adventure,Tarsem Singh
+1042,204. The Girl Who Leapt Through Time,7.7,1h 38m,2006,adventure,Mamoru Hosoda
+1043,216. Beowulf,6.3,1h 55m,2007,adventure,Robert Zemeckis
+1044,223. Enchanted,7.1,1h 47m,2007,adventure,Kevin Lima
+1045,226. Harry Potter and the Order of the Phoenix,7.5,2h 18m,2007,adventure,David Yates
+1046,229. Into the Wild,8.1,2h 28m,2007,adventure,Sean Penn
+1047,235. Meet the Robinsons,6.8,1h 35m,2007,adventure,Stephen J. Anderson
+1048,244. Pirates of the Caribbean: At World's End,7.1,2h 49m,2007,adventure,Gore Verbinski
+1049,246. Ratatouille,8.1,1h 51m,2007,adventure,Brad Bird
+1050,251. Stardust,7.6,2h 7m,2007,adventure,Matthew Vaughn
+1051,257. The Bucket List,7.4,1h 37m,2007,adventure,Rob Reiner
+1052,260. The Golden Compass,6.1,1h 53m,2007,adventure,Chris Weitz
+1053,264. The Water Horse,6.4,1h 52m,2007,adventure,Jay Russell
+1054,267. Transformers,7.1,2h 24m,2007,adventure,Michael Bay
+1055,269. Wrong Turn 2: Dead End,5.5,1h 33m,2007,adventure,Joe Lynch
+1056,271. 24: Redemption,7.4,1h 24m,2008,adventure,Jon Cassar
+1057,275. City of Ember,6.4,1h 30m,2008,adventure,Gil Kenan
+1058,276. CJ7,6.4,1h 28m,2008,adventure,Stephen Chow
+1059,288. Harold & Kumar Escape from Guantanamo Bay,6.5,1h 54m,2008,adventure,Jon Hurwitz
+1060,289. Hellboy II: The Golden Army,7.0,2h,2008,adventure,Guillermo del Toro
+1061,290. Horton Hears a Who!,6.8,1h 26m,2008,adventure,Jimmy Hayward
+1062,291. Indiana Jones and the Kingdom of the Crystal Skull,6.2,2h 2m,2008,adventure,Steven Spielberg
+1063,292. Iron Man,7.9,2h 6m,2008,adventure,Jon Favreau
+1064,294. Kung Fu Panda,7.6,1h 32m,2008,adventure,Mark Osborne
+1065,301. Quantum of Solace,6.5,1h 46m,2008,adventure,Marc Forster
+1066,316. The Chronicles of Narnia: Prince Caspian,6.5,2h 30m,2008,adventure,Andrew Adamson
+1067,320. The Incredible Hulk,6.6,1h 52m,2008,adventure,Louis Leterrier
+1068,321. The Ruins,5.9,1h 30m,2008,adventure,Carter Smith
+1069,329. WALL·E,8.4,1h 38m,2008,adventure,Andrew Stanton
+1070,334. 9,7.0,1h 19m,2009,adventure,Shane Acker
+1071,339. Avatar,7.9,2h 42m,2009,adventure,James Cameron
+1072,346. Harry Potter and the Half-Blood Prince,7.6,2h 33m,2009,adventure,David Yates
+1073,348. Inglourious Basterds,8.4,2h 33m,2009,adventure,Quentin Tarantino
+1074,357. Sherlock Holmes,7.6,2h 8m,2009,adventure,Guy Ritchie
+1075,359. Star Trek,7.9,2h 7m,2009,adventure,J.J. Abrams
+1076,368. The Secret of Kells,7.5,1h 15m,2009,adventure,Tomm Moore
+1077,370. Up,8.3,1h 36m,2009,adventure,Pete Docter
+1078,375. Alice in Wonderland,6.4,1h 48m,2010,adventure,Tim Burton
+1079,378. Despicable Me,7.6,1h 35m,2010,adventure,Pierre Coffin
+1080,381. Frozen,6.2,1h 33m,2010,adventure,Adam Green
+1081,383. Harry Potter and the Deathly Hallows: Part 1,7.7,2h 26m,2010,adventure,David Yates
+1082,384. How to Train Your Dragon,8.1,1h 38m,2010,adventure,Dean DeBlois
+1083,385. Inception,8.8,2h 28m,2010,adventure,Christopher Nolan
+1084,389. Legend of the Guardians: The Owls of Ga'Hoole,6.9,1h 37m,2010,adventure,Zack Snyder
+1085,393. Prince of Persia: The Sands of Time,6.5,1h 56m,2010,adventure,Mike Newell
+1086,398. Tangled,7.7,1h 40m,2010,adventure,Nathan Greno
+1087,399. The Chronicles of Narnia: The Voyage of the Dawn Treader,6.3,1h 53m,2010,adventure,Michael Apted
+1088,"404. Tomorrow, When the War Began",6.1,1h 44m,2010,adventure,Stuart Beattie
+1089,405. Toy Story 3,8.3,1h 43m,2010,adventure,Lee Unkrich
+1090,408. Captain America: The First Avenger,6.9,2h 4m,2011,adventure,Joe Johnston
+1091,416. Hanna,6.7,1h 51m,2011,adventure,Joe Wright
+1092,418. Hugo,7.5,2h 6m,2011,adventure,Martin Scorsese
+1093,419. Harry Potter and the Deathly Hallows: Part 2,8.1,2h 10m,2011,adventure,David Yates
+1094,423. Kung Fu Panda 2,7.3,1h 30m,2011,adventure,Jennifer Yuh Nelson
+1095,427. Rio,6.9,1h 36m,2011,adventure,Carlos Saldanha
+1096,434. The Adventures of Tintin,7.3,1h 47m,2011,adventure,Steven Spielberg
+1097,440. The Twilight Saga: Breaking Dawn - Part 1,4.9,1h 57m,2011,adventure,Bill Condon
+1098,452. Brave,7.1,1h 33m,2012,adventure,Mark Andrews
+1099,460. John Carter,6.6,2h 12m,2012,adventure,Andrew Stanton
+1100,462. Life of Pi,7.9,2h 7m,2012,adventure,Ang Lee
+1101,464. On the Road,6.0,2h 4m,2012,adventure,Walter Salles
+1102,466. Safety Not Guaranteed,6.9,1h 26m,2012,adventure,Colin Trevorrow
+1103,468. Snow White and the Huntsman,6.1,2h 7m,2012,adventure,Rupert Sanders
+1104,469. Skyfall,7.8,2h 23m,2012,adventure,Sam Mendes
+1105,473. The Hobbit: An Unexpected Journey,7.8,2h 49m,2012,adventure,Peter Jackson
+1106,482. Wreck-It Ralph,7.7,1h 41m,2012,adventure,Rich Moore
+1107,486. After Earth,4.8,1h 40m,2013,adventure,M. Night Shyamalan
+1108,499. Frozen,7.4,1h 42m,2013,adventure,Chris Buck
+1109,503. Iron Man 3,7.1,2h 10m,2013,adventure,Shane Black
+1110,505. Justice League: The Flashpoint Paradox,8.1,1h 15m,2013,adventure,Jay Oliva
+1111,509. Man of Steel,7.1,2h 23m,2013,adventure,Zack Snyder
+1112,511. Oblivion,7.0,2h 4m,2013,adventure,Joseph Kosinski
+1113,521. Star Trek Into Darkness,7.7,2h 12m,2013,adventure,J.J. Abrams
+1114,525. The Hunger Games: Catching Fire,7.5,2h 26m,2013,adventure,Francis Lawrence
+1115,528. Thor: The Dark World,6.7,1h 52m,2013,adventure,Alan Taylor
+1116,533. Queen,8.1,2h 26m,2013,adventure,Vikas Bahl
+1117,534. World War Z,7.0,1h 56m,2013,adventure,Marc Forster
+1118,540. Captain America: The Winter Soldier,7.7,2h 16m,2014,adventure,Anthony Russo
+1119,544. Dawn of the Planet of the Apes,7.6,2h 10m,2014,adventure,Matt Reeves
+1120,546. Edge of Tomorrow,7.9,1h 53m,2014,adventure,Doug Liman
+1121,548. Godzilla,6.4,2h 3m,2014,adventure,Gareth Edwards
+1122,550. Guardians of the Galaxy,8.0,2h 1m,2014,adventure,James Gunn
+1123,554. Interstellar,8.7,2h 49m,2014,adventure,Christopher Nolan
+1124,557. Maleficent,6.9,1h 37m,2014,adventure,Robert Stromberg
+1125,577. Wild,7.1,1h 55m,2014,adventure,Jean-Marc Vallée
+1126,578. X-Men: Days of Future Past,7.9,2h 12m,2014,adventure,Bryan Singer
+1127,580. Bajrangi Bhaijaan,8.1,2h 43m,2015,adventure,Kabir Khan
+1128,587. Goosebumps,6.3,1h 43m,2015,adventure,Rob Letterman
+1129,588. Jurassic World,6.9,2h 4m,2015,adventure,Colin Trevorrow
+1130,590. Mad Max: Fury Road,8.1,2h,2015,adventure,George Miller
+1131,608. The Martian,8.0,2h 24m,2015,adventure,Ridley Scott
+1132,616. A Monster Calls,7.4,1h 48m,2016,adventure,J.A. Bayona
+1133,621. Fantastic Beasts and Where to Find Them,7.2,2h 12m,2016,adventure,David Yates
+1134,622. Hunt for the Wilderpeople,7.8,1h 41m,2016,adventure,Taika Waititi
+1135,636. Star Trek Beyond,7.0,2h 2m,2016,adventure,Justin Lin
+1136,638. The Girl with All the Gifts,6.6,1h 51m,2016,adventure,Colm McCarthy
+1137,641. The Jungle Book,7.3,1h 46m,2016,adventure,Jon Favreau
+1138,642. The Legend of Tarzan,6.2,1h 50m,2016,adventure,David Yates
+1139,659. Teenage Mutant Ninja Turtles: Out of the Shadows,5.9,1h 52m,2016,adventure,Dave Green
+1140,661. Thor: Ragnarok,7.9,2h 10m,2017,adventure,Taika Waititi
+1141,665. Valerian and the City of a Thousand Planets,6.4,2h 16m,2017,adventure,Luc Besson
+1142,674. The Count of Monte Cristo,7.7,2h 11m,2002,adventure,Kevin Reynolds
+1143,681. Jumanji: Welcome to the Jungle,7.0,1h 59m,2017,adventure,Jake Kasdan
+1144,684. Annihilation,6.8,1h 55m,2018,adventure,Alex Garland
+1145,692. Avengers: Infinity War,8.4,2h 29m,2018,adventure,Anthony Russo
+1146,694. Venom,6.6,1h 52m,2018,adventure,Ruben Fleischer
+1147,700. Mission: Impossible - Fallout,7.7,2h 27m,2018,adventure,Christopher McQuarrie
+1148,705. Mortal Engines,6.1,2h 8m,2018,adventure,Christian Rivers
+1149,708. Aquaman,6.8,2h 23m,2018,adventure,James Wan
+1150,709. Spider-Man: Into the Spider-Verse,8.4,1h 57m,2018,adventure,Bob Persichetti
+1151,713. Avengers: Endgame,8.4,3h 1m,2019,adventure,Anthony Russo
+1152,719. Alita: Battle Angel,7.3,2h 2m,2019,adventure,Robert Rodriguez
+1153,727. Charlie's Angels,5.0,1h 58m,2019,adventure,Elizabeth Banks
+1154,732. Avane Srimannarayana,7.6,3h 6m,2019,adventure,Sachin Ravi
+1155,734. Finding Nemo,8.2,1h 40m,2003,adventure,Andrew Stanton
+1156,740. Missing Link,6.7,1h 33m,2019,adventure,Chris Butler
+1157,744. Mary Poppins Returns,6.7,2h 10m,2018,adventure,Rob Marshall
+1158,746. Wonder Woman,7.3,2h 21m,2017,adventure,Patty Jenkins
+1159,747. Pokémon: Detective Pikachu,6.5,1h 44m,2019,adventure,Rob Letterman
+1160,752. Jumanji: The Next Level,6.6,2h 3m,2019,adventure,Jake Kasdan
+1161,754. Game Night,6.9,1h 40m,2018,adventure,John Francis Daley
+1162,760. The Man from U.N.C.L.E.,7.2,1h 56m,2015,adventure,Guy Ritchie
+1163,771. Spies in Disguise,6.8,1h 42m,2019,adventure,Nick Bruno
+1164,774. Pete's Dragon,6.7,1h 42m,2016,adventure,David Lowery
+1165,779. Zack Snyder's Justice League,7.9,4h 2m,2021,adventure,Zack Snyder
+1166,782. Boss Level,6.8,1h 40m,2020,adventure,Joe Carnahan
+1167,783. Love and Monsters,6.9,1h 49m,2020,adventure,Michael Matthews
+1168,794. Cruella,7.3,2h 14m,2021,adventure,Craig Gillespie
+1169,796. The Suicide Squad,7.2,2h 12m,2021,adventure,James Gunn
+1170,800. Ghostbusters: Afterlife,7.0,2h 4m,2021,adventure,Jason Reitman
+1171,805. The Lost City,6.1,1h 52m,2022,adventure,Aaron Nee
+1172,808. 777 Charlie,8.7,2h 44m,2022,adventure,Kiranraj K
+1173,809. Prey,7.1,1h 40m,2022,adventure,Dan Trachtenberg
+1174,810. Everything Everywhere All at Once,7.8,2h 19m,2022,adventure,Daniel Kwan
+1175,813. Kantara,8.2,2h 28m,2022,adventure,Rishab Shetty
+1176,815. Plane,6.5,1h 47m,2023,adventure,Jean-François Richet
+1177,818. RRR,7.8,3h 7m,2022,adventure,S.S. Rajamouli
+1178,825. Dungeons & Dragons: Honor Among Thieves,7.2,2h 14m,2023,adventure,John Francis Daley
+1179,827. Black Widow,6.6,2h 14m,2021,adventure,Cate Shortland
+1180,837. Space Sweepers,6.5,2h 16m,2021,adventure,Sung-hee Jo
+1181,838. Guillermo del Toro's Pinocchio,7.6,1h 57m,2022,adventure,Guillermo del Toro
+1182,841. Coco,8.4,1h 45m,2017,adventure,Lee Unkrich
+1183,842. The Flash,6.6,2h 24m,2023,adventure,Andy Muschietti
+1184,858. Hanu Man,7.7,2h 38m,2024,adventure,Prasanth Varma
+1185,860. Civil War,7.0,1h 49m,2024,adventure,Alex Garland
+1186,"3. Crouching Tiger, Hidden Dragon",7.9,2h,2000,romance,Ang Lee
+1187,10. Malena,7.4,1h 48m,2000,romance,Giuseppe Tornatore
+1188,11. Meet the Parents,7.0,1h 48m,2000,romance,Jay Roach
+1189,13. Mohabbatein,7.0,3h 36m,2000,romance,Aditya Chopra
+1190,24. Dil Chahta Hai,8.0,3h 3m,2001,romance,Farhan Akhtar
+1191,28. Huccha,7.8,2h 58m,2001,romance,Om Prakash Rao
+1192,35. Original Sin,6.0,1h 56m,2001,romance,Michael Cristofer
+1193,38. Shrek,7.9,1h 30m,2001,romance,Andrew Adamson
+1194,44. Vaalee,6.8,2h 39m,2001,romance,S. Mahendar
+1195,45. Vanilla Sky,6.9,2h 16m,2001,romance,Cameron Crowe
+1196,46. A Walk to Remember,7.3,1h 41m,2002,romance,Adam Shankman
+1197,47. Bend It Like Beckham,6.7,1h 52m,2002,romance,Gurinder Chadha
+1198,49. Devdas,7.5,3h 5m,2002,romance,Sanjay Leela Bhansali
+1199,57. My Big Fat Greek Wedding,6.6,1h 35m,2002,romance,Joel Zwick
+1200,61. Secretary,6.9,1h 47m,2002,romance,Steven Shainberg
+1201,68. Van Wilder,6.4,1h 32m,2002,romance,Walt Becker
+1202,73. Boys,7.2,2h 52m,2003,romance,S. Shankar
+1203,75. Cold Mountain,7.2,2h 34m,2003,romance,Anthony Minghella
+1204,78. Freaky Friday,6.3,1h 37m,2003,romance,Mark Waters
+1205,82. Kal Ho Naa Ho,7.9,3h 6m,2003,romance,Nikkhil Advani
+1206,83. Kiccha,6.6,2h 34m,2003,romance,P.A. Arun Prasad
+1207,99. 50 First Dates,6.8,1h 39m,2004,romance,Peter Segal
+1208,102. A Moment to Remember,8.1,1h 57m,2004,romance,Park Kyung-Jin
+1209,104. Before Sunset,8.1,1h 20m,2004,romance,Richard Linklater
+1210,106. Chasing Liberty,6.1,1h 51m,2004,romance,Andy Cadiff
+1211,110. Ella Enchanted,6.3,1h 36m,2004,romance,Tommy O'Haver
+1212,111. Eternal Sunshine of the Spotless Mind,8.3,1h 48m,2004,romance,Michel Gondry
+1213,117. Hum Tum,7.0,2h 23m,2004,romance,Kunal Kohli
+1214,119. Lakshya,7.8,3h 6m,2004,romance,Farhan Akhtar
+1215,120. Main Hoon Na,7.1,3h 2m,2004,romance,Farah Khan
+1216,136. The Notebook,7.8,2h 3m,2004,romance,Nick Cassavetes
+1217,138. The Terminal,7.4,2h 8m,2004,romance,Steven Spielberg
+1218,141. Wimbledon,6.3,1h 38m,2004,romance,Richard Loncraine
+1219,142. Windstruck,7.1,2h 3m,2004,romance,Jae-young Kwak
+1220,145. Bewitched,4.8,1h 42m,2005,romance,Nora Ephron
+1221,149. Corpse Bride,7.4,1h 17m,2005,romance,Tim Burton
+1222,154. King Kong,7.2,3h 7m,2005,romance,Peter Jackson
+1223,157. Memoirs of a Geisha,7.3,2h 25m,2005,romance,Rob Marshall
+1224,160. Pride & Prejudice,7.8,2h 9m,2005,romance,Joe Wright
+1225,164. The 40-Year-Old Virgin,7.1,1h 56m,2005,romance,Judd Apatow
+1226,173. The Sisterhood of the Traveling Pants,6.5,1h 59m,2005,romance,Ken Kwapis
+1227,178. A Millionaire's First Love,7.2,1h 56m,2006,romance,Tae-gyun Kim
+1228,180. Bommarillu,8.2,2h 50m,2006,romance,Bommarillu Baskar
+1229,185. Fanaa,7.1,2h 48m,2006,romance,Kunal Kohli
+1230,187. Lage Raho Munna Bhai,8.0,2h 24m,2006,romance,Rajkumar Hirani
+1231,188. Little Children,7.5,2h 17m,2006,romance,Todd Field
+1232,193. Mungaru Male,8.4,2h 23m,2006,romance,Yograj Bhat
+1233,194. My Autograph,7.9,3h 5m,2006,romance,Sudeep
+1234,198. She's the Man,6.4,1h 45m,2006,romance,Andy Fickman
+1235,199. Starter for 10,6.7,1h 32m,2006,romance,Tom Vaughan
+1236,204. The Girl Who Leapt Through Time,7.7,1h 38m,2006,romance,Mamoru Hosoda
+1237,207. The Illusionist,7.5,1h 50m,2006,romance,Neil Burger
+1238,210. Vettaiyaadu Vilaiyaadu,7.9,2h 54m,2006,romance,Gautham Vasudev Menon
+1239,219. Cheluvina Chittara,6.4,2h 30m,2007,romance,S. Narayan
+1240,220. Dan in Real Life,6.8,1h 38m,2007,romance,Peter Hedges
+1241,223. Enchanted,7.1,1h 47m,2007,romance,Kevin Lima
+1242,230. Jab We Met,7.9,2h 18m,2007,romance,Imtiaz Ali
+1243,232. Knocked Up,6.9,2h 9m,2007,romance,Judd Apatow
+1244,237. Milana,8.3,2h 35m,2007,romance,Prakash
+1245,239. Nancy Drew,5.9,1h 39m,2007,romance,Andrew Fleming
+1246,243. Om Shanti Om,6.8,2h 42m,2007,romance,Farah Khan
+1247,245. P.S. I Love You,7.0,2h 6m,2007,romance,Richard LaGravenese
+1248,251. Stardust,7.6,2h 7m,2007,romance,Matthew Vaughn
+1249,258. The Cake Eaters,6.3,1h 26m,2007,romance,Mary Stuart Masterson
+1250,"272. Angus, Thongs and Perfect Snogging",6.3,1h 40m,2008,romance,Gurinder Chadha
+1251,"278. Definitely, Maybe",7.1,1h 52m,2008,romance,Adam Brooks
+1252,282. Elegy,6.7,1h 52m,2008,romance,Isabel Coixet
+1253,284. Gaalipata,8.3,2h 26m,2008,romance,Yograj Bhat
+1254,285. Ghost Town,6.7,1h 42m,2008,romance,David Koepp
+1255,293. Jaane Tu... Ya Jaane Na,7.4,2h 35m,2008,romance,Abbas Tyrewala
+1256,295. Let the Right One In,7.8,1h 54m,2008,romance,Tomas Alfredson
+1257,298. Mussanje Maathu,7.5,Not Rated,2008,romance,Mussanje Mahesh
+1258,299. Nick and Norah's Infinite Playlist,6.6,1h 30m,2008,romance,Peter Sollett
+1259,303. Rab Ne Bana Di Jodi,7.2,2h 47m,2008,romance,Aditya Chopra
+1260,308. Sex Drive,6.5,1h 49m,2008,romance,Sean Anders
+1261,309. Slumdog Millionaire,8.0,2h,2008,romance,Danny Boyle
+1262,317. The Curious Case of Benjamin Button,7.8,2h 46m,2008,romance,David Fincher
+1263,323. The Sisterhood of the Traveling Pants 2,6.2,1h 59m,2008,romance,Sanaa Hamri
+1264,325. Twilight,5.3,2h 2m,2008,romance,Catherine Hardwicke
+1265,331. Yes Man,6.8,1h 44m,2008,romance,Peyton Reed
+1266,332. Zack and Miri Make a Porno,6.5,1h 41m,2008,romance,Kevin Smith
+1267,335. 500 Days of Summer,7.7,1h 35m,2009,romance,Marc Webb
+1268,336. Adventureland,6.8,1h 47m,2009,romance,Greg Mottola
+1269,"347. I Love You, Man",7.0,1h 45m,2009,romance,John Hamburg
+1270,350. Julie & Julia,7.0,2h 3m,2009,romance,Nora Ephron
+1271,351. Love Aaj Kal,6.8,2h 8m,2009,romance,Imtiaz Ali
+1272,352. Maleyali Jotheyali,7.1,2h 18m,2009,romance,Preetham Gubbi
+1273,365. The Invention of Lying,6.4,1h 40m,2009,romance,Ricky Gervais
+1274,367. The Proposal,6.8,1h 48m,2009,romance,Anne Fletcher
+1275,371. Up in the Air,7.4,1h 49m,2009,romance,Jason Reitman
+1276,376. Beginners,7.2,1h 45m,2010,romance,Mike Mills
+1277,390. Love & Other Drugs,6.7,1h 52m,2010,romance,Edward Zwick
+1278,391. My Name Is Khan,7.9,2h 45m,2010,romance,Karan Johar
+1279,398. Tangled,7.7,1h 40m,2010,romance,Nathan Greno
+1280,"404. Tomorrow, When the War Began",6.1,1h 44m,2010,romance,Stuart Beattie
+1281,407. Another Earth,6.9,1h 32m,2011,romance,Mike Cahill
+1282,"411. Crazy, Stupid, Love.",7.4,1h 58m,2011,romance,Glenn Ficarra
+1283,412. Damsels in Distress,5.8,1h 39m,2011,romance,Whit Stillman
+1284,413. Detention,5.6,1h 33m,2011,romance,Joseph Kahn
+1285,420. J. Edgar,6.5,2h 17m,2011,romance,Clint Eastwood
+1286,425. Paramathma,7.3,N/A,2011,romance,Yograj Bhat
+1287,426. Perfect Sense,7.0,1h 32m,2011,romance,David Mackenzie
+1288,427. Rio,6.9,1h 36m,2011,romance,Carlos Saldanha
+1289,429. Sanju Weds Geetha,6.9,2h 15m,2011,romance,Nagashekar
+1290,430. Shyloo,6.3,2h 32m,2011,romance,S. Narayan
+1291,433. The Adjustment Bureau,7.0,1h 46m,2011,romance,George Nolfi
+1292,435. The Artist,7.8,1h 40m,2011,romance,Michel Hazanavicius
+1293,440. The Twilight Saga: Breaking Dawn - Part 1,4.9,1h 57m,2011,romance,Bill Condon
+1294,"442. Turn Me On, Dammit!",6.3,1h 16m,2011,romance,Jannicke Systad Jacobsen
+1295,451. Barfi!,8.1,2h 31m,2012,romance,Anurag Basu
+1296,464. On the Road,6.0,2h 4m,2012,romance,Walter Salles
+1297,465. Romeo,6.7,2h 35m,2012,romance,PC Shekar
+1298,466. Safety Not Guaranteed,6.9,1h 26m,2012,romance,Colin Trevorrow
+1299,468. Snow White and the Huntsman,6.1,2h 7m,2012,romance,Rupert Sanders
+1300,480. Vicky Donor,7.7,2h 6m,2012,romance,Shoojit Sircar
+1301,485. About Time,7.8,2h 3m,2013,romance,Richard Curtis
+1302,488. Beautiful Creatures,6.1,2h 4m,2013,romance,Richard LaGravenese
+1303,489. Before Midnight,7.9,1h 49m,2013,romance,Richard Linklater
+1304,490. Behind the Candelabra,7.0,1h 58m,2013,romance,Steven Soderbergh
+1305,493. Blue Jasmine,7.3,1h 38m,2013,romance,Woody Allen
+1306,500. Goliyon Ki Raasleela Ram Leela,6.4,2h 30m,2013,romance,Sanjay Leela Bhansali
+1307,502. Her,8.0,2h 6m,2013,romance,Spike Jonze
+1308,504. Young & Beautiful,6.7,1h 35m,2013,romance,François Ozon
+1309,512. Raanjhanaa,7.6,2h 20m,2013,romance,Aanand L. Rai
+1310,513. Raja Rani,7.6,2h 40m,2013,romance,Atlee
+1311,514. Sakkare,5.8,N/A,2013,romance,Abhaya Simha
+1312,517. Simple Agi Ondh Love Story,8.0,2h 10m,2013,romance,Suni
+1313,527. The Spectacular Now,7.0,1h 35m,2013,romance,James Ponsoldt
+1314,535. What If,6.8,1h 38m,2013,romance,Michael Dowse
+1315,536. Adhyaksha,7.4,2h 27m,2014,romance,Nanda Kishore
+1316,547. Gajakesari,6.4,2h 45m,2014,romance,S Krishna
+1317,552. Honeymoon,5.7,1h 27m,2014,romance,Leigh Janiak
+1318,556. Jai Lalitha,6.8,N/A,2014,romance,Ponkumaran
+1319,557. Maleficent,6.9,1h 37m,2014,romance,Robert Stromberg
+1320,558. Mr. And Mrs. Ramchari,7.3,2h 36m,2014,romance,Santhosh Ananddram
+1321,559. Nan Life Alli,6.8,N/A,2014,romance,Ramdeep
+1322,562. Spring,6.7,1h 49m,2014,romance,Justin Benson
+1323,567. The Fault in Our Stars,7.6,2h 6m,2014,romance,Josh Boone
+1324,582. Brooklyn,7.5,1h 57m,2015,romance,John Crowley
+1325,583. Crimson Peak,6.5,1h 59m,2015,romance,Guillermo del Toro
+1326,586. Equals,6.0,1h 41m,2015,romance,Drake Doremus
+1327,589. Kendasampige,8.3,1h 39m,2015,romance,Suri
+1328,602. The Diary of a Teenage Girl,6.8,1h 42m,2015,romance,Marielle Heller
+1329,603. The DUFF,6.4,1h 41m,2015,romance,Ari Sandel
+1330,607. The Lobster,7.1,1h 59m,2015,romance,Yorgos Lanthimos
+1331,614. A Hologram for the King,6.1,1h 38m,2016,romance,Tom Tykwer
+1332,615. Allied,7.1,2h 4m,2016,romance,Robert Zemeckis
+1333,624. Kirik Party,8.2,2h 39m,2016,romance,Rishab Shetty
+1334,625. Krishna Rukku,6.6,2h 15m,2016,romance,Anil Kumar
+1335,626. La La Land,8.0,2h 8m,2016,romance,Damien Chazelle
+1336,631. Passengers,7.0,1h 56m,2016,romance,Morten Tyldum
+1337,639. The Handmaiden,8.1,2h 25m,2016,romance,Park Chan-wook
+1338,642. The Legend of Tarzan,6.2,1h 50m,2016,romance,David Yates
+1339,643. The Light Between Oceans,7.2,2h 13m,2016,romance,Derek Cianfrance
+1340,650. Santhu Straight Forward,6.5,2h 39m,2016,romance,Mahesh Rao
+1341,662. Heartbreakers,6.3,2h 3m,2001,romance,David Mirkin
+1342,666. The Deep End,6.5,1h 41m,2001,romance,Scott McGehee
+1343,673. Unfaithful,6.7,2h 4m,2002,romance,Adrian Lyne
+1344,675. Wonder Wheel,6.2,1h 41m,2017,romance,Woody Allen
+1345,677. The Shape of Water,7.3,2h 3m,2017,romance,Guillermo del Toro
+1346,685. Call Me by Your Name,7.8,2h 12m,2017,romance,Luca Guadagnino
+1347,689. Legally Blonde,6.5,1h 36m,2001,romance,Robert Luketic
+1348,690. A Lot Like Love,6.6,1h 47m,2005,romance,Nigel Cole
+1349,695. Sankashta Kara Ganapathi,6.6,1h 56m,2018,romance,Arjun Kumar
+1350,702. Destination Wedding,6.0,1h 27m,2018,romance,Victor Levin
+1351,728. Gantumoote,8.1,1h 55m,2019,romance,Roopa Rao
+1352,731. My Days of Mercy,6.5,1h 48m,2017,romance,Tali Shalom-Ezer
+1353,738. Marriage Story,7.9,2h 17m,2019,romance,Noah Baumbach
+1354,745. If Beale Street Could Talk,7.1,1h 59m,2018,romance,Barry Jenkins
+1355,756. Love Mocktail,8.2,2h 33m,2020,romance,Darling Krishna
+1356,777. Happiest Season,6.6,1h 42m,2020,romance,Clea DuVall
+1357,781. Palm Springs,7.4,1h 30m,2020,romance,Max Barbakow
+1358,805. The Lost City,6.1,1h 52m,2022,romance,Aaron Nee
+1359,824. Love 360,6.8,2h,2022,romance,Shashank
+1360,826. Cashback,7.1,1h 42m,2006,romance,Sean Ellis
+1361,844. Saptha Sagaradaache Ello - Side A,8.2,2h 22m,2023,romance,Hemanth M. Rao
+1362,846. Sapta Sagaradaache Ello: Side B,8.0,2h 28m,2023,romance,Hemanth M. Rao
+1363,847. Hit Man,6.8,1h 55m,2023,romance,Richard Linklater
+1364,850. Sita Ramam,8.5,2h 43m,2022,romance,Hanu Raghavapudi
+1365,5. Frequency,7.4,1h 58m,2000,sci-fi,Gregory Hoblit
+1366,14. Pitch Black,7.0,1h 49m,2000,sci-fi,David Twohy
+1367,18. The Cell,6.4,1h 47m,2000,sci-fi,Tarsem Singh
+1368,20. Unbreakable,7.3,1h 46m,2000,sci-fi,M. Night Shyamalan
+1369,21. X-Men,7.3,1h 44m,2000,sci-fi,Bryan Singer
+1370,22. A.I. Artificial Intelligence,7.2,2h 26m,2001,sci-fi,Steven Spielberg
+1371,25. Donnie Darko,8.0,1h 53m,2001,sci-fi,Richard Kelly
+1372,45. Vanilla Sky,6.9,2h 16m,2001,sci-fi,Cameron Crowe
+1373,50. Equilibrium,7.3,1h 47m,2002,sci-fi,Kurt Wimmer
+1374,56. Minority Report,7.6,2h 25m,2002,sci-fi,Steven Spielberg
+1375,60. Resident Evil,6.6,1h 40m,2002,sci-fi,Paul W.S. Anderson
+1376,62. Signs,6.8,1h 46m,2002,sci-fi,M. Night Shyamalan
+1377,63. Spider-Man,7.4,2h 1m,2002,sci-fi,Sam Raimi
+1378,92. Terminator 3: Rise of the Machines,6.3,1h 49m,2003,sci-fi,Jonathan Mostow
+1379,93. The League of Extraordinary Gentlemen,5.8,1h 50m,2003,sci-fi,Stephen Norrington
+1380,94. The Matrix Reloaded,7.2,2h 18m,2003,sci-fi,Lana Wachowski
+1381,95. The Matrix Revolutions,6.7,2h 9m,2003,sci-fi,Lana Wachowski
+1382,98. X2: X-Men United,7.4,2h 14m,2003,sci-fi,Bryan Singer
+1383,101. Alien vs. Predator,5.7,1h 41m,2004,sci-fi,Paul W.S. Anderson
+1384,109. District B13,7.1,1h 24m,2004,sci-fi,Pierre Morel
+1385,111. Eternal Sunshine of the Spotless Mind,8.3,1h 48m,2004,sci-fi,Michel Gondry
+1386,116. Hellboy,6.9,2h 2m,2004,sci-fi,Guillermo del Toro
+1387,"118. I, Robot",7.1,1h 55m,2004,sci-fi,Alex Proyas
+1388,127. Spider-Man 2,7.5,2h 7m,2004,sci-fi,Sam Raimi
+1389,133. The Butterfly Effect,7.6,1h 53m,2004,sci-fi,Eric Bress
+1390,163. Serenity,7.8,1h 59m,2005,sci-fi,Joss Whedon
+1391,169. The Hitchhiker's Guide to the Galaxy,6.7,1h 49m,2005,sci-fi,Garth Jennings
+1392,170. The Island,6.8,2h 16m,2005,sci-fi,Michael Bay
+1393,171. The Jacket,7.1,1h 43m,2005,sci-fi,John Maybury
+1394,174. V for Vendetta,8.1,2h 12m,2005,sci-fi,James McTeigue
+1395,175. War of the Worlds,6.5,1h 57m,2005,sci-fi,Steven Spielberg
+1396,182. Children of Men,7.9,1h 49m,2006,sci-fi,Alfonso Cuarón
+1397,184. Deja Vu,7.1,2h 6m,2006,sci-fi,Tony Scott
+1398,204. The Girl Who Leapt Through Time,7.7,1h 38m,2006,sci-fi,Mamoru Hosoda
+1399,206. The Host,7.1,2h,2006,sci-fi,Bong Joon Ho
+1400,208. The Prestige,8.5,2h 10m,2006,sci-fi,Christopher Nolan
+1401,228. I Am Legend,7.2,1h 41m,2007,sci-fi,Francis Lawrence
+1402,233. Knowing,6.2,2h 1m,2009,sci-fi,Alex Proyas
+1403,235. Meet the Robinsons,6.8,1h 35m,2007,sci-fi,Stephen J. Anderson
+1404,240. Next,6.2,1h 36m,2007,sci-fi,Lee Tamahori
+1405,247. Sunshine,7.2,1h 47m,2007,sci-fi,Danny Boyle
+1406,262. The Mist,7.1,2h 6m,2007,sci-fi,Frank Darabont
+1407,267. Transformers,7.1,2h 24m,2007,sci-fi,Michael Bay
+1408,275. City of Ember,6.4,1h 30m,2008,sci-fi,Gil Kenan
+1409,276. CJ7,6.4,1h 28m,2008,sci-fi,Stephen Chow
+1410,277. Death Race,6.4,1h 45m,2008,sci-fi,Paul W.S. Anderson
+1411,289. Hellboy II: The Golden Army,7.0,2h,2008,sci-fi,Guillermo del Toro
+1412,292. Iron Man,7.9,2h 6m,2008,sci-fi,Jon Favreau
+1413,302. Quarantine,6.0,1h 29m,2008,sci-fi,John Erick Dowdle
+1414,304. Red Mist,4.9,1h 22m,2008,sci-fi,Paddy Breathnach
+1415,320. The Incredible Hulk,6.6,1h 52m,2008,sci-fi,Louis Leterrier
+1416,329. WALL·E,8.4,1h 38m,2008,sci-fi,Andrew Stanton
+1417,334. 9,7.0,1h 19m,2009,sci-fi,Shane Acker
+1418,339. Avatar,7.9,2h 42m,2009,sci-fi,James Cameron
+1419,341. Daybreakers,6.4,1h 38m,2009,sci-fi,Michael Spierig
+1420,343. District 9,7.9,1h 52m,2009,sci-fi,Neill Blomkamp
+1421,358. Splice,5.8,1h 44m,2009,sci-fi,Vincenzo Natali
+1422,359. Star Trek,7.9,2h 7m,2009,sci-fi,J.J. Abrams
+1423,362. The Fourth Kind,5.9,1h 38m,2009,sci-fi,Olatunde Osunsanmi
+1424,373. Watchmen,7.6,2h 42m,2009,sci-fi,Zack Snyder
+1425,378. Despicable Me,7.6,1h 35m,2010,sci-fi,Pierre Coffin
+1426,385. Inception,8.8,2h 28m,2010,sci-fi,Christopher Nolan
+1427,394. Repo Men,6.3,1h 51m,2010,sci-fi,Miguel Sapochnik
+1428,"404. Tomorrow, When the War Began",6.1,1h 44m,2010,sci-fi,Stuart Beattie
+1429,407. Another Earth,6.9,1h 32m,2011,sci-fi,Mike Cahill
+1430,408. Captain America: The First Avenger,6.9,2h 4m,2011,sci-fi,Joe Johnston
+1431,410. Cowboys & Aliens,6.0,1h 59m,2011,sci-fi,Jon Favreau
+1432,426. Perfect Sense,7.0,1h 32m,2011,sci-fi,David Mackenzie
+1433,428. Rise of the Planet of the Apes,7.6,1h 45m,2011,sci-fi,Rupert Wyatt
+1434,431. Source Code,7.5,1h 33m,2011,sci-fi,Duncan Jones
+1435,432. Super 8,7.0,1h 52m,2011,sci-fi,J.J. Abrams
+1436,433. The Adjustment Bureau,7.0,1h 46m,2011,sci-fi,George Nolfi
+1437,445. X-Men: First Class,7.7,2h 11m,2011,sci-fi,Matthew Vaughn
+1438,454. Cloud Atlas,7.4,2h 52m,2012,sci-fi,Tom Tykwer
+1439,456. Dredd,7.1,1h 35m,2012,sci-fi,Pete Travis
+1440,460. John Carter,6.6,2h 12m,2012,sci-fi,Andrew Stanton
+1441,463. Looper,7.4,1h 59m,2012,sci-fi,Rian Johnson
+1442,468. Snow White and the Huntsman,6.1,2h 7m,2012,sci-fi,Rupert Sanders
+1443,471. The Avengers,8.0,2h 23m,2012,sci-fi,Joss Whedon
+1444,482. Wreck-It Ralph,7.7,1h 41m,2012,sci-fi,Rich Moore
+1445,485. About Time,7.8,2h 3m,2013,sci-fi,Richard Curtis
+1446,486. After Earth,4.8,1h 40m,2013,sci-fi,M. Night Shyamalan
+1447,498. Europa Report,6.4,1h 30m,2013,sci-fi,Sebastián Cordero
+1448,501. Gravity,7.7,1h 31m,2013,sci-fi,Alfonso Cuarón
+1449,502. Her,8.0,2h 6m,2013,sci-fi,Spike Jonze
+1450,503. Iron Man 3,7.1,2h 10m,2013,sci-fi,Shane Black
+1451,505. Justice League: The Flashpoint Paradox,8.1,1h 15m,2013,sci-fi,Jay Oliva
+1452,507. Lucia,8.3,2h 15m,2013,sci-fi,Pawan Kumar
+1453,509. Man of Steel,7.1,2h 23m,2013,sci-fi,Zack Snyder
+1454,511. Oblivion,7.0,2h 4m,2013,sci-fi,Joseph Kosinski
+1455,518. Snowpiercer,7.1,2h 6m,2013,sci-fi,Bong Joon Ho
+1456,521. Star Trek Into Darkness,7.7,2h 12m,2013,sci-fi,J.J. Abrams
+1457,525. The Hunger Games: Catching Fire,7.5,2h 26m,2013,sci-fi,Francis Lawrence
+1458,526. The Returned,5.9,1h 38m,2013,sci-fi,Manuel Carballo
+1459,528. Thor: The Dark World,6.7,1h 52m,2013,sci-fi,Alan Taylor
+1460,530. Upstream Color,6.5,1h 36m,2013,sci-fi,Shane Carruth
+1461,534. World War Z,7.0,1h 56m,2013,sci-fi,Marc Forster
+1462,540. Captain America: The Winter Soldier,7.7,2h 16m,2014,sci-fi,Anthony Russo
+1463,542. Cooties,5.7,1h 28m,2014,sci-fi,Jonathan Milott
+1464,544. Dawn of the Planet of the Apes,7.6,2h 10m,2014,sci-fi,Matt Reeves
+1465,546. Edge of Tomorrow,7.9,1h 53m,2014,sci-fi,Doug Liman
+1466,548. Godzilla,6.4,2h 3m,2014,sci-fi,Gareth Edwards
+1467,550. Guardians of the Galaxy,8.0,2h 1m,2014,sci-fi,James Gunn
+1468,552. Honeymoon,5.7,1h 27m,2014,sci-fi,Leigh Janiak
+1469,554. Interstellar,8.7,2h 49m,2014,sci-fi,Christopher Nolan
+1470,561. Predestination,7.4,1h 37m,2014,sci-fi,Michael Spierig
+1471,562. Spring,6.7,1h 49m,2014,sci-fi,Justin Benson
+1472,569. The Maze Runner,6.8,1h 53m,2014,sci-fi,Wes Ball
+1473,570. The Purge: Anarchy,6.4,1h 43m,2014,sci-fi,James DeMonaco
+1474,578. X-Men: Days of Future Past,7.9,2h 12m,2014,sci-fi,Bryan Singer
+1475,584. Ex Machina,7.7,1h 48m,2014,sci-fi,Alex Garland
+1476,586. Equals,6.0,1h 41m,2015,sci-fi,Drake Doremus
+1477,588. Jurassic World,6.9,2h 4m,2015,sci-fi,Colin Trevorrow
+1478,590. Mad Max: Fury Road,8.1,2h,2015,sci-fi,George Miller
+1479,607. The Lobster,7.1,1h 59m,2015,sci-fi,Yorgos Lanthimos
+1480,608. The Martian,8.0,2h 24m,2015,sci-fi,Ridley Scott
+1481,613. 10 Cloverfield Lane,7.2,1h 43m,2016,sci-fi,Dan Trachtenberg
+1482,617. Arrival,7.9,1h 56m,2016,sci-fi,Denis Villeneuve
+1483,618. Captain America: Civil War,7.8,2h 27m,2016,sci-fi,Anthony Russo
+1484,619. Colossal,6.2,1h 49m,2016,sci-fi,Nacho Vigalondo
+1485,628. Morgan,5.8,1h 32m,2016,sci-fi,Luke Scott
+1486,631. Passengers,7.0,1h 56m,2016,sci-fi,Morten Tyldum
+1487,636. Star Trek Beyond,7.0,2h 2m,2016,sci-fi,Justin Lin
+1488,638. The Girl with All the Gifts,6.6,1h 51m,2016,sci-fi,Colm McCarthy
+1489,646. The Purge: Election Year,6.0,1h 48m,2016,sci-fi,James DeMonaco
+1490,654. Life,6.6,1h 44m,2017,sci-fi,Daniel Espinosa
+1491,655. Logan,8.1,2h 17m,2017,sci-fi,James Mangold
+1492,659. Teenage Mutant Ninja Turtles: Out of the Shadows,5.9,1h 52m,2016,sci-fi,Dave Green
+1493,661. Thor: Ragnarok,7.9,2h 10m,2017,sci-fi,Taika Waititi
+1494,665. Valerian and the City of a Thousand Planets,6.4,2h 16m,2017,sci-fi,Luc Besson
+1495,677. The Shape of Water,7.3,2h 3m,2017,sci-fi,Guillermo del Toro
+1496,684. Annihilation,6.8,1h 55m,2018,sci-fi,Alex Garland
+1497,686. Blade Runner 2049,8.0,2h 44m,2017,sci-fi,Denis Villeneuve
+1498,687. Downsizing,5.8,2h 15m,2017,sci-fi,Alexander Payne
+1499,692. Avengers: Infinity War,8.4,2h 29m,2018,sci-fi,Anthony Russo
+1500,693. A Quiet Place,7.5,1h 30m,2018,sci-fi,John Krasinski
+1501,694. Venom,6.6,1h 52m,2018,sci-fi,Ruben Fleischer
+1502,699. Elizabeth Harvest,5.8,1h 48m,2018,sci-fi,Sebastian Gutierrez
+1503,705. Mortal Engines,6.1,2h 8m,2018,sci-fi,Christian Rivers
+1504,708. Aquaman,6.8,2h 23m,2018,sci-fi,James Wan
+1505,709. Spider-Man: Into the Spider-Verse,8.4,1h 57m,2018,sci-fi,Bob Persichetti
+1506,713. Avengers: Endgame,8.4,3h 1m,2019,sci-fi,Anthony Russo
+1507,714. Happy Death Day 2U,6.2,1h 40m,2019,sci-fi,Christopher Landon
+1508,719. Alita: Battle Angel,7.3,2h 2m,2019,sci-fi,Robert Rodriguez
+1509,724. Upgrade,7.5,1h 40m,2018,sci-fi,Leigh Whannell
+1510,746. Wonder Woman,7.3,2h 21m,2017,sci-fi,Patty Jenkins
+1511,747. Pokémon: Detective Pikachu,6.5,1h 44m,2019,sci-fi,Rob Letterman
+1512,748. The House with a Clock in Its Walls,6.1,1h 45m,2018,sci-fi,Eli Roth
+1513,749. The Invisible Man,7.1,2h 4m,2020,sci-fi,Leigh Whannell
+1514,764. Underwater,5.9,1h 35m,2020,sci-fi,William Eubank
+1515,771. Spies in Disguise,6.8,1h 42m,2019,sci-fi,Nick Bruno
+1516,779. Zack Snyder's Justice League,7.9,4h 2m,2021,sci-fi,Zack Snyder
+1517,782. Boss Level,6.8,1h 40m,2020,sci-fi,Joe Carnahan
+1518,783. Love and Monsters,6.9,1h 49m,2020,sci-fi,Michael Matthews
+1519,785. Godzilla vs. Kong,6.3,1h 53m,2021,sci-fi,Adam Wingard
+1520,795. A Quiet Place Part II,7.2,1h 37m,2020,sci-fi,John Krasinski
+1521,796. The Suicide Squad,7.2,2h 12m,2021,sci-fi,James Gunn
+1522,799. Don't Look Up,7.2,2h 18m,2021,sci-fi,Adam McKay
+1523,800. Ghostbusters: Afterlife,7.0,2h 4m,2021,sci-fi,Jason Reitman
+1524,809. Prey,7.1,1h 40m,2022,sci-fi,Dan Trachtenberg
+1525,810. Everything Everywhere All at Once,7.8,2h 19m,2022,sci-fi,Daniel Kwan
+1526,820. Pandorum,6.7,1h 48m,2009,sci-fi,Christian Alvart
+1527,827. Black Widow,6.6,2h 14m,2021,sci-fi,Cate Shortland
+1528,833. 28 Days Later,7.5,1h 53m,2002,sci-fi,Danny Boyle
+1529,836. The Platform,7.0,1h 34m,2019,sci-fi,Galder Gaztelu-Urrutia
+1530,837. Space Sweepers,6.5,2h 16m,2021,sci-fi,Sung-hee Jo
+1531,842. The Flash,6.6,2h 24m,2023,sci-fi,Andy Muschietti
+1532,851. The Vast of Night,6.7,1h 31m,2019,sci-fi,Andrew Patterson
+1533,853. Blink,7.0,2h 16m,2024,sci-fi,Bengaluru Srinidhi
+1534,855. The Beach House,5.3,1h 28m,2019,sci-fi,Jeffrey A. Brown
+1535,862. The Substance,7.3,2h 21m,2024,sci-fi,Coralie Fargeat
+1536,864. The Wild Robot,8.2,1h 42m,2024,sci-fi,Chris Sanders
+1537,5. Frequency,7.4,1h 58m,2000,mystery,Gregory Hoblit
+1538,20. Unbreakable,7.3,1h 46m,2000,mystery,M. Night Shyamalan
+1539,25. Donnie Darko,8.0,1h 53m,2001,mystery,Richard Kelly
+1540,26. Gosford Park,7.2,2h 17m,2001,mystery,Robert Altman
+1541,35. Original Sin,6.0,1h 56m,2001,mystery,Michael Cristofer
+1542,36. Mulholland Drive,7.9,2h 27m,2001,mystery,David Lynch
+1543,37. Session 9,6.4,1h 37m,2001,mystery,Brad Anderson
+1544,41. The Others,7.6,1h 44m,2001,mystery,Alejandro Amenábar
+1545,45. Vanilla Sky,6.9,2h 16m,2001,mystery,Cameron Crowe
+1546,51. Harry Potter and the Chamber of Secrets,7.4,2h 41m,2002,mystery,Chris Columbus
+1547,53. Insomnia,7.2,1h 58m,2002,mystery,Christopher Nolan
+1548,56. Minority Report,7.6,2h 25m,2002,mystery,Steven Spielberg
+1549,62. Signs,6.8,1h 46m,2002,mystery,M. Night Shyamalan
+1550,64. The Bourne Identity,7.8,1h 59m,2002,mystery,Doug Liman
+1551,66. The Ring,7.1,1h 55m,2002,mystery,Gore Verbinski
+1552,69. 11:14,7.1,1h 26m,2003,mystery,Greg Marcks
+1553,71. A Tale of Two Sisters,7.1,1h 54m,2003,mystery,Kim Jee-woon
+1554,79. Holes,7.0,1h 57m,2003,mystery,Andrew Davis
+1555,80. Identity,7.3,1h 30m,2003,mystery,James Mangold
+1556,87. Oldboy,8.3,2h,2003,mystery,Park Chan-wook
+1557,115. Harry Potter and the Prisoner of Azkaban,7.9,2h 22m,2004,mystery,Alfonso Cuarón
+1558,"118. I, Robot",7.1,1h 55m,2004,mystery,Alex Proyas
+1559,123. National Treasure,6.9,2h 11m,2004,mystery,Jon Turteltaub
+1560,124. Saw,7.6,1h 43m,2004,mystery,James Wan
+1561,130. Taking Lives,6.2,1h 43m,2004,mystery,D.J. Caruso
+1562,134. The Grudge,5.9,1h 31m,2004,mystery,Takashi Shimizu
+1563,139. The Village,6.6,1h 48m,2004,mystery,M. Night Shyamalan
+1564,148. Constantine,7.0,2h 1m,2005,mystery,Francis Lawrence
+1565,150. Flightplan,6.3,1h 38m,2005,mystery,Robert Schwentke
+1566,151. Gone Baby Gone,7.6,1h 54m,2007,mystery,Ben Affleck
+1567,152. Harry Potter and the Goblet of Fire,7.7,2h 37m,2005,mystery,Mike Newell
+1568,162. Revolver,6.3,1h 51m,2005,mystery,Guy Ritchie
+1569,171. The Jacket,7.1,1h 43m,2005,mystery,John Maybury
+1570,172. The Ring Two,5.4,1h 50m,2005,mystery,Hideo Nakata
+1571,186. Inside Man,7.6,2h 9m,2006,mystery,Spike Lee
+1572,192. Monster House,6.7,1h 31m,2006,mystery,Gil Kenan
+1573,201. The Da Vinci Code,6.6,2h 29m,2006,mystery,Ron Howard
+1574,204. The Girl Who Leapt Through Time,7.7,1h 38m,2006,mystery,Mamoru Hosoda
+1575,207. The Illusionist,7.5,1h 50m,2006,mystery,Neil Burger
+1576,208. The Prestige,8.5,2h 10m,2006,mystery,Christopher Nolan
+1577,210. Vettaiyaadu Vilaiyaadu,7.9,2h 54m,2006,mystery,Gautham Vasudev Menon
+1578,213. 1408,6.8,1h 44m,2007,mystery,Mikael Håfström
+1579,214. Awake,6.5,1h 24m,2007,mystery,Joby Harold
+1580,221. Disturbia,6.8,1h 45m,2007,mystery,D.J. Caruso
+1581,226. Harry Potter and the Order of the Phoenix,7.5,2h 18m,2007,mystery,David Yates
+1582,227. Hot Fuzz,7.8,2h 1m,2007,mystery,Edgar Wright
+1583,233. Knowing,6.2,2h 1m,2009,mystery,Alex Proyas
+1584,236. Michael Clayton,7.2,1h 59m,2007,mystery,Tony Gilroy
+1585,238. Mr. Brooks,7.3,2h,2007,mystery,Bruce A. Evans
+1586,239. Nancy Drew,5.9,1h 39m,2007,mystery,Andrew Fleming
+1587,256. The Bourne Ultimatum,8.0,1h 55m,2007,mystery,Paul Greengrass
+1588,263. The Orphanage,7.4,1h 45m,2007,mystery,J.A. Bayona
+1589,270. Zodiac,7.7,2h 37m,2007,mystery,David Fincher
+1590,273. Blindness,6.5,2h 1m,2008,mystery,Fernando Meirelles
+1591,274. Changeling,7.7,2h 21m,2008,mystery,Clint Eastwood
+1592,279. Doubt,7.5,1h 44m,2008,mystery,John Patrick Shanley
+1593,280. Eagle Eye,6.6,1h 58m,2008,mystery,D.J. Caruso
+1594,297. Mirrors,6.1,1h 50m,2008,mystery,Alexandre Aja
+1595,301. Quantum of Solace,6.5,1h 46m,2008,mystery,Marc Forster
+1596,307. Seven Pounds,7.6,2h 3m,2008,mystery,Gabriele Muccino
+1597,312. The Alphabet Killer,5.2,1h 38m,2008,mystery,Rob Schmidt
+1598,315. The Children,5.9,1h 24m,2008,mystery,Tom Shankland
+1599,326. Untraceable,6.2,1h 41m,2008,mystery,Gregory Hoblit
+1600,346. Harry Potter and the Half-Blood Prince,7.6,2h 33m,2009,mystery,David Yates
+1601,354. Orphan,7.0,2h 3m,2009,mystery,Jaume Collet-Serra
+1602,357. Sherlock Holmes,7.6,2h 8m,2009,mystery,Guy Ritchie
+1603,360. State of Play,7.1,2h 7m,2009,mystery,Kevin Macdonald
+1604,362. The Fourth Kind,5.9,1h 38m,2009,mystery,Olatunde Osunsanmi
+1605,364. The International,6.5,1h 58m,2009,mystery,Tom Tykwer
+1606,369. The Uninvited,6.3,1h 27m,2009,mystery,Charles Guard
+1607,373. Watchmen,7.6,2h 42m,2009,mystery,Zack Snyder
+1608,375. Alice in Wonderland,6.4,1h 48m,2010,mystery,Tim Burton
+1609,379. Devil,6.3,1h 20m,2010,mystery,John Erick Dowdle
+1610,383. Harry Potter and the Deathly Hallows: Part 1,7.7,2h 26m,2010,mystery,David Yates
+1611,386. Insidious,6.8,1h 43m,2010,mystery,James Wan
+1612,389. Legend of the Guardians: The Owls of Ga'Hoole,6.9,1h 37m,2010,mystery,Zack Snyder
+1613,396. 6 Souls,6.0,1h 52m,2010,mystery,Måns Mårlind
+1614,397. Shutter Island,8.2,2h 18m,2010,mystery,Martin Scorsese
+1615,401. The Ghost Writer,7.2,2h 8m,2010,mystery,Roman Polanski
+1616,407. Another Earth,6.9,1h 32m,2011,mystery,Mike Cahill
+1617,413. Detention,5.6,1h 33m,2011,mystery,Joseph Kahn
+1618,418. Hugo,7.5,2h 6m,2011,mystery,Martin Scorsese
+1619,419. Harry Potter and the Deathly Hallows: Part 2,8.1,2h 10m,2011,mystery,David Yates
+1620,424. Martha Marcy May Marlene,6.8,1h 42m,2011,mystery,Sean Durkin
+1621,431. Source Code,7.5,1h 33m,2011,mystery,Duncan Jones
+1622,433. The Adjustment Bureau,7.0,1h 46m,2011,mystery,George Nolfi
+1623,434. The Adventures of Tintin,7.3,1h 47m,2011,mystery,Steven Spielberg
+1624,437. The Girl with the Dragon Tattoo,7.8,2h 38m,2011,mystery,David Fincher
+1625,439. The Innkeepers,5.5,1h 41m,2011,mystery,Ti West
+1626,443. Unknown,6.8,1h 53m,2011,mystery,Jaume Collet-Serra
+1627,446. You're Next,6.6,1h 35m,2011,mystery,Adam Wingard
+1628,452. Brave,7.1,1h 33m,2012,mystery,Mark Andrews
+1629,454. Cloud Atlas,7.4,2h 52m,2012,mystery,Tom Tykwer
+1630,470. Talaash: The Answer Lies Within,7.3,2h 20m,2012,mystery,Reema Kagti
+1631,474. The Last Will and Testament of Rosalind Leigh,5.1,1h 22m,2012,mystery,Rodrigo Gudiño
+1632,477. The Possession,5.9,1h 32m,2012,mystery,Ole Bornedal
+1633,498. Europa Report,6.4,1h 30m,2013,mystery,Sebastián Cordero
+1634,510. Now You See Me,7.2,1h 55m,2013,mystery,Louis Leterrier
+1635,524. The Conjuring,7.5,1h 52m,2013,mystery,James Wan
+1636,530. Upstream Color,6.5,1h 36m,2013,mystery,Shane Carruth
+1637,543. Unfriended,5.6,1h 23m,2014,mystery,Levan Gabriadze
+1638,549. Gone Girl,8.1,2h 29m,2014,mystery,David Fincher
+1639,552. Honeymoon,5.7,1h 27m,2014,mystery,Leigh Janiak
+1640,553. Housebound,6.7,1h 47m,2014,mystery,Gerard Johnstone
+1641,555. It Follows,6.8,1h 40m,2014,mystery,David Robert Mitchell
+1642,564. The Babadook,6.8,1h 34m,2014,mystery,Jennifer Kent
+1643,565. The Canal,5.8,1h 32m,2014,mystery,Ivan Kavanagh
+1644,568. The Guest,6.7,1h 40m,2014,mystery,Adam Wingard
+1645,569. The Maze Runner,6.8,1h 53m,2014,mystery,Wes Ball
+1646,574. When Marnie Was There,7.6,1h 43m,2014,mystery,Hiromasa Yonebayashi
+1647,575. White Bird in a Blizzard,6.4,1h 31m,2014,mystery,Gregg Araki
+1648,583. Crimson Peak,6.5,1h 59m,2015,mystery,Guillermo del Toro
+1649,594. RangiTaranga,8.1,2h 29m,2015,mystery,Anup Bhandari
+1650,604. The Final Girls,6.5,1h 31m,2015,mystery,Todd Strauss-Schulson
+1651,606. The Invitation,6.6,1h 40m,2015,mystery,Karyn Kusama
+1652,609. The Sea of Trees,6.1,1h 50m,2015,mystery,Gus Van Sant
+1653,610. The Visit,6.3,1h 34m,2015,mystery,M. Night Shyamalan
+1654,612. Uppi 2,7.8,2h 15m,2015,mystery,Upendra
+1655,617. Arrival,7.9,1h 56m,2016,mystery,Denis Villeneuve
+1656,627. Lights Out,6.3,1h 21m,2016,mystery,David F. Sandberg
+1657,630. Ouija: Origin of Evil,6.2,1h 39m,2016,mystery,Mike Flanagan
+1658,632. Personal Shopper,6.1,1h 45m,2016,mystery,Olivier Assayas
+1659,637. The Conjuring 2,7.3,2h 14m,2016,mystery,James Wan
+1660,648. U Turn,7.4,2h,2016,mystery,Pawan Kumar
+1661,653. Get Out,7.8,1h 44m,2017,mystery,Jordan Peele
+1662,656. Risen,6.3,1h 47m,2016,mystery,Kevin Reynolds
+1663,660. Happy Death Day,6.6,1h 36m,2017,mystery,Christopher Landon
+1664,666. The Deep End,6.5,1h 41m,2001,mystery,Scott McGehee
+1665,669. Ghost Ship,5.6,1h 31m,2002,mystery,Steve Beck
+1666,682. The Hateful Eight,7.8,2h 48m,2015,mystery,Quentin Tarantino
+1667,684. Annihilation,6.8,1h 55m,2018,mystery,Alex Garland
+1668,686. Blade Runner 2049,8.0,2h 44m,2017,mystery,Denis Villeneuve
+1669,688. Insidious: Chapter 2,6.6,1h 46m,2013,mystery,James Wan
+1670,696. A Simple Favor,6.8,1h 57m,2018,mystery,Paul Feig
+1671,710. Hereditary,7.3,2h 7m,2018,mystery,Ari Aster
+1672,712. Road Games,5.3,1h 35m,2015,mystery,Abner Pastoll
+1673,714. Happy Death Day 2U,6.2,1h 40m,2019,mystery,Christopher Landon
+1674,717. Kavaludaari,7.9,2h 23m,2019,mystery,Hemanth M. Rao
+1675,721. Truth or Dare,5.2,1h 40m,2018,mystery,Jeff Wadlow
+1676,722. Incident in a Ghostland,6.4,1h 31m,2018,mystery,Pascal Laugier
+1677,725. Ready or Not,6.8,1h 35m,2019,mystery,Matt Bettinelli-Olpin
+1678,742. Gentleman,6.8,2h 24m,2020,mystery,Jadesh Kumar
+1679,743. Knives Out,7.9,2h 10m,2019,mystery,Rian Johnson
+1680,747. Pokémon: Detective Pikachu,6.5,1h 44m,2019,mystery,Rob Letterman
+1681,748. The House with a Clock in Its Walls,6.1,1h 45m,2018,mystery,Eli Roth
+1682,749. The Invisible Man,7.1,2h 4m,2020,mystery,Leigh Whannell
+1683,769. The Lodge,6.0,1h 48m,2019,mystery,Severin Fiala
+1684,773. Angel of Mine,6.4,1h 38m,2019,mystery,Kim Farrant
+1685,780. Promising Young Woman,7.5,1h 53m,2020,mystery,Emerald Fennell
+1686,781. Palm Springs,7.4,1h 30m,2020,mystery,Max Barbakow
+1687,782. Boss Level,6.8,1h 40m,2020,mystery,Joe Carnahan
+1688,786. Host,6.5,57m,2020,mystery,Rob Savage
+1689,798. Last Night in Soho,7.0,1h 56m,2021,mystery,Edgar Wright
+1690,804. Death on the Nile,6.3,2h 7m,2022,mystery,Kenneth Branagh
+1691,806. X,6.5,1h 45m,2022,mystery,Ti West
+1692,811. The Gray Man,6.5,2h 2m,2022,mystery,Joe Russo
+1693,820. Pandorum,6.7,1h 48m,2009,mystery,Christian Alvart
+1694,835. Antlers,5.9,1h 39m,2021,mystery,Scott Cooper
+1695,836. The Platform,7.0,1h 34m,2019,mystery,Galder Gaztelu-Urrutia
+1696,841. Coco,8.4,1h 45m,2017,mystery,Lee Unkrich
+1697,850. Sita Ramam,8.5,2h 43m,2022,mystery,Hanu Raghavapudi
+1698,851. The Vast of Night,6.7,1h 31m,2019,mystery,Andrew Patterson
+1699,855. The Beach House,5.3,1h 28m,2019,mystery,Jeffrey A. Brown
+1700,861. Exhuma,6.9,2h 14m,2024,mystery,Jang Jae-hyun
+1701,1. American Psycho,7.6,1h 42m,2000,horror,Mary Harron
+1702,4. Final Destination,6.7,1h 38m,2000,horror,James Wong
+1703,6. Ginger Snaps,6.8,1h 48m,2000,horror,John Fawcett
+1704,14. Pitch Black,7.0,1h 49m,2000,horror,David Twohy
+1705,18. The Cell,6.4,1h 47m,2000,horror,Tarsem Singh
+1706,37. Session 9,6.4,1h 37m,2001,horror,Brad Anderson
+1707,41. The Others,7.6,1h 44m,2001,horror,Alejandro Amenábar
+1708,55. Makdee,7.5,1h 30m,2002,horror,Vishal Bhardwaj
+1709,60. Resident Evil,6.6,1h 40m,2002,horror,Paul W.S. Anderson
+1710,66. The Ring,7.1,1h 55m,2002,horror,Gore Verbinski
+1711,71. A Tale of Two Sisters,7.1,1h 54m,2003,horror,Kim Jee-woon
+1712,100. Aapthamitra,8.2,1h 40m,2004,horror,P. Vasu
+1713,101. Alien vs. Predator,5.7,1h 41m,2004,horror,Paul W.S. Anderson
+1714,108. Dawn of the Dead,7.2,1h 41m,2004,horror,Zack Snyder
+1715,116. Hellboy,6.9,2h 2m,2004,horror,Guillermo del Toro
+1716,124. Saw,7.6,1h 43m,2004,horror,James Wan
+1717,125. Shaun of the Dead,7.9,1h 39m,2004,horror,Edgar Wright
+1718,134. The Grudge,5.9,1h 31m,2004,horror,Takashi Shimizu
+1719,148. Constantine,7.0,2h 1m,2005,horror,Francis Lawrence
+1720,153. Hostel,5.9,1h 34m,2005,horror,Eli Roth
+1721,166. The Descent,7.2,1h 39m,2005,horror,Neil Marshall
+1722,167. The Devil's Rejects,6.7,1h 47m,2005,horror,Rob Zombie
+1723,168. The Exorcism of Emily Rose,6.7,1h 59m,2005,horror,Scott Derrickson
+1724,172. The Ring Two,5.4,1h 50m,2005,horror,Hideo Nakata
+1725,205. The Hills Have Eyes,6.4,1h 47m,2006,horror,Alexandre Aja
+1726,206. The Host,7.1,2h,2006,horror,Bong Joon Ho
+1727,213. 1408,6.8,1h 44m,2007,horror,Mikael Håfström
+1728,215. An American Crime,7.2,1h 38m,2007,horror,Tommy O'Haver
+1729,228. I Am Legend,7.2,1h 41m,2007,horror,Francis Lawrence
+1730,253. Sweeney Todd: The Demon Barber of Fleet Street,7.3,1h 56m,2007,horror,Tim Burton
+1731,255. Teeth,5.4,1h 34m,2007,horror,Mitchell Lichtenstein
+1732,262. The Mist,7.1,2h 6m,2007,horror,Frank Darabont
+1733,263. The Orphanage,7.4,1h 45m,2007,horror,J.A. Bayona
+1734,268. Vacancy,6.2,1h 25m,2007,horror,Nimród Antal
+1735,269. Wrong Turn 2: Dead End,5.5,1h 33m,2007,horror,Joe Lynch
+1736,281. Eden Lake,6.7,1h 31m,2008,horror,James Watkins
+1737,289. Hellboy II: The Golden Army,7.0,2h,2008,horror,Guillermo del Toro
+1738,295. Let the Right One In,7.8,1h 54m,2008,horror,Tomas Alfredson
+1739,296. Martyrs,7.0,1h 39m,2008,horror,Pascal Laugier
+1740,297. Mirrors,6.1,1h 50m,2008,horror,Alexandre Aja
+1741,302. Quarantine,6.0,1h 29m,2008,horror,John Erick Dowdle
+1742,304. Red Mist,4.9,1h 22m,2008,horror,Paddy Breathnach
+1743,315. The Children,5.9,1h 24m,2008,horror,Tom Shankland
+1744,321. The Ruins,5.9,1h 30m,2008,horror,Carter Smith
+1745,341. Daybreakers,6.4,1h 38m,2009,horror,Michael Spierig
+1746,344. Drag Me to Hell,6.6,1h 39m,2009,horror,Sam Raimi
+1747,349. Jennifer's Body,5.5,1h 42m,2009,horror,Karyn Kusama
+1748,354. Orphan,7.0,2h 3m,2009,horror,Jaume Collet-Serra
+1749,358. Splice,5.8,1h 44m,2009,horror,Vincenzo Natali
+1750,362. The Fourth Kind,5.9,1h 38m,2009,horror,Olatunde Osunsanmi
+1751,366. The Last House on the Left,6.5,1h 53m,2009,horror,Dennis Iliadis
+1752,369. The Uninvited,6.3,1h 27m,2009,horror,Charles Guard
+1753,374. Zombieland,7.5,1h 28m,2009,horror,Ruben Fleischer
+1754,379. Devil,6.3,1h 20m,2010,horror,John Erick Dowdle
+1755,386. Insidious,6.8,1h 43m,2010,horror,James Wan
+1756,396. 6 Souls,6.0,1h 52m,2010,horror,Måns Mårlind
+1757,400. The Crazies,6.5,1h 41m,2010,horror,Breck Eisner
+1758,413. Detention,5.6,1h 33m,2011,horror,Joseph Kahn
+1759,439. The Innkeepers,5.5,1h 41m,2011,horror,Ti West
+1760,446. You're Next,6.6,1h 35m,2011,horror,Adam Wingard
+1761,453. Byzantium,6.5,1h 58m,2012,horror,Neil Jordan
+1762,467. Simon Killer,6.3,1h 46m,2012,horror,Antonio Campos
+1763,474. The Last Will and Testament of Rosalind Leigh,5.1,1h 22m,2012,horror,Rodrigo Gudiño
+1764,475. The Lords of Salem,5.2,1h 41m,2012,horror,Rob Zombie
+1765,477. The Possession,5.9,1h 32m,2012,horror,Ole Bornedal
+1766,478. The Seasoning House,6.1,1h 30m,2012,horror,Paul Hyett
+1767,479. The Woman in Black,6.4,1h 35m,2012,horror,James Watkins
+1768,484. 6-5=2,5.6,1h 45m,2013,horror,K.S. Ashoka
+1769,494. Carrie,5.8,1h 40m,2013,horror,Kimberly Peirce
+1770,508. Mama,6.2,1h 40m,2013,horror,Andy Muschietti
+1771,515. Avenged,5.5,1h 35m,2013,horror,Michael S. Ojeda
+1772,524. The Conjuring,7.5,1h 52m,2013,horror,James Wan
+1773,526. The Returned,5.9,1h 38m,2013,horror,Manuel Carballo
+1774,534. World War Z,7.0,1h 56m,2013,horror,Marc Forster
+1775,542. Cooties,5.7,1h 28m,2014,horror,Jonathan Milott
+1776,543. Unfriended,5.6,1h 23m,2014,horror,Levan Gabriadze
+1777,552. Honeymoon,5.7,1h 27m,2014,horror,Leigh Janiak
+1778,553. Housebound,6.7,1h 47m,2014,horror,Gerard Johnstone
+1779,555. It Follows,6.8,1h 40m,2014,horror,David Robert Mitchell
+1780,562. Spring,6.7,1h 49m,2014,horror,Justin Benson
+1781,564. The Babadook,6.8,1h 34m,2014,horror,Jennifer Kent
+1782,565. The Canal,5.8,1h 32m,2014,horror,Ivan Kavanagh
+1783,570. The Purge: Anarchy,6.4,1h 43m,2014,horror,James DeMonaco
+1784,571. Tusk,5.4,1h 42m,2014,horror,Kevin Smith
+1785,583. Crimson Peak,6.5,1h 59m,2015,horror,Guillermo del Toro
+1786,587. Goosebumps,6.3,1h 43m,2015,horror,Rob Letterman
+1787,597. Southbound,5.9,1h 29m,2015,horror,Roxanne Benjamin
+1788,604. The Final Girls,6.5,1h 31m,2015,horror,Todd Strauss-Schulson
+1789,606. The Invitation,6.6,1h 40m,2015,horror,Karyn Kusama
+1790,610. The Visit,6.3,1h 34m,2015,horror,M. Night Shyamalan
+1791,613. 10 Cloverfield Lane,7.2,1h 43m,2016,horror,Dan Trachtenberg
+1792,616. A Monster Calls,7.4,1h 48m,2016,horror,J.A. Bayona
+1793,620. Don't Breathe,7.1,1h 28m,2016,horror,Fede Alvarez
+1794,627. Lights Out,6.3,1h 21m,2016,horror,David F. Sandberg
+1795,628. Morgan,5.8,1h 32m,2016,horror,Luke Scott
+1796,630. Ouija: Origin of Evil,6.2,1h 39m,2016,horror,Mike Flanagan
+1797,634. Shivalinga,6.9,2h 35m,2016,horror,P. Vasu
+1798,635. Split,7.3,1h 57m,2016,horror,M. Night Shyamalan
+1799,637. The Conjuring 2,7.3,2h 14m,2016,horror,James Wan
+1800,638. The Girl with All the Gifts,6.6,1h 51m,2016,horror,Colm McCarthy
+1801,645. The Other Side of the Door,5.3,1h 36m,2016,horror,Johannes Roberts
+1802,646. The Purge: Election Year,6.0,1h 48m,2016,horror,James DeMonaco
+1803,647. The Shallows,6.3,1h 26m,2016,horror,Jaume Collet-Serra
+1804,648. U Turn,7.4,2h,2016,horror,Pawan Kumar
+1805,653. Get Out,7.8,1h 44m,2017,horror,Jordan Peele
+1806,654. Life,6.6,1h 44m,2017,horror,Daniel Espinosa
+1807,660. Happy Death Day,6.6,1h 36m,2017,horror,Christopher Landon
+1808,669. Ghost Ship,5.6,1h 31m,2002,horror,Steve Beck
+1809,684. Annihilation,6.8,1h 55m,2018,horror,Alex Garland
+1810,688. Insidious: Chapter 2,6.6,1h 46m,2013,horror,James Wan
+1811,693. A Quiet Place,7.5,1h 30m,2018,horror,John Krasinski
+1812,699. Elizabeth Harvest,5.8,1h 48m,2018,horror,Sebastian Gutierrez
+1813,710. Hereditary,7.3,2h 7m,2018,horror,Ari Aster
+1814,711. The Babysitter,6.4,1h 25m,2017,horror,McG
+1815,712. Road Games,5.3,1h 35m,2015,horror,Abner Pastoll
+1816,714. Happy Death Day 2U,6.2,1h 40m,2019,horror,Christopher Landon
+1817,716. The Perfection,6.2,1h 30m,2018,horror,Richard Shepard
+1818,721. Truth or Dare,5.2,1h 40m,2018,horror,Jeff Wadlow
+1819,722. Incident in a Ghostland,6.4,1h 31m,2018,horror,Pascal Laugier
+1820,723. It Chapter Two,6.5,2h 49m,2019,horror,Andy Muschietti
+1821,725. Ready or Not,6.8,1h 35m,2019,horror,Matt Bettinelli-Olpin
+1822,739. Zombieland: Double Tap,6.7,1h 39m,2019,horror,Ruben Fleischer
+1823,748. The House with a Clock in Its Walls,6.1,1h 45m,2018,horror,Eli Roth
+1824,749. The Invisible Man,7.1,2h 4m,2020,horror,Leigh Whannell
+1825,758. Mayhem,6.4,1h 26m,2017,horror,Joe Lynch
+1826,759. Haunt,6.3,1h 32m,2019,horror,Scott Beck
+1827,762. The Hunt,6.6,1h 30m,2020,horror,Craig Zobel
+1828,764. Underwater,5.9,1h 35m,2020,horror,William Eubank
+1829,769. The Lodge,6.0,1h 48m,2019,horror,Severin Fiala
+1830,776. Gerald's Game,6.5,1h 43m,2017,horror,Mike Flanagan
+1831,778. Freaky,6.3,1h 42m,2020,horror,Christopher Landon
+1832,784. Train to Busan,7.6,1h 58m,2016,horror,Yeon Sang-ho
+1833,786. Host,6.5,57m,2020,horror,Rob Savage
+1834,787. Office Uprising,5.7,1h 32m,2018,horror,Lin Oeding
+1835,789. Willy's Wonderland,5.5,1h 28m,2021,horror,Kevin Lewis
+1836,795. A Quiet Place Part II,7.2,1h 37m,2020,horror,John Krasinski
+1837,798. Last Night in Soho,7.0,1h 56m,2021,horror,Edgar Wright
+1838,801. What We Do in the Shadows,7.6,1h 26m,2014,horror,Jemaine Clement
+1839,806. X,6.5,1h 45m,2022,horror,Ti West
+1840,809. Prey,7.1,1h 40m,2022,horror,Dan Trachtenberg
+1841,814. Tumbbad,8.2,1h 48m,2018,horror,Rahi Anil Barve
+1842,816. Better Watch Out,6.5,1h 29m,2016,horror,Chris Peckover
+1843,820. Pandorum,6.7,1h 48m,2009,horror,Christian Alvart
+1844,821. Pearl,7.0,1h 43m,2022,horror,Ti West
+1845,822. Dracula Untold,6.2,1h 32m,2014,horror,Gary Shore
+1846,823. Krishna Talkies,6.8,2h 26m,2021,horror,Vijayanandha
+1847,828. Day Shift,6.1,1h 53m,2022,horror,J.J. Perry
+1848,829. Deadstream,6.4,1h 27m,2022,horror,Joseph Winter
+1849,831. Evil Dead Rise,6.5,1h 36m,2023,horror,Lee Cronin
+1850,833. 28 Days Later,7.5,1h 53m,2002,horror,Danny Boyle
+1851,834. 30 Days of Night,6.6,1h 53m,2007,horror,David Slade
+1852,835. Antlers,5.9,1h 39m,2021,horror,Scott Cooper
+1853,836. The Platform,7.0,1h 34m,2019,horror,Galder Gaztelu-Urrutia
+1854,840. The Invitation,5.3,1h 45m,2022,horror,Jessica M. Thompson
+1855,852. Nefarious,6.4,1h 37m,2023,horror,Chuck Konzelman
+1856,854. Nocturne,5.7,1h 30m,2020,horror,Zu Quirke
+1857,855. The Beach House,5.3,1h 28m,2019,horror,Jeffrey A. Brown
+1858,857. Talk to Me,7.1,1h 35m,2022,horror,Danny Philippou
+1859,861. Exhuma,6.9,2h 14m,2024,horror,Jang Jae-hyun
+1860,862. The Substance,7.3,2h 21m,2024,horror,Coralie Fargeat
+1861,863. Heretic,7.0,1h 51m,2024,horror,Scott Beck
+1862,1. American Psycho,7.6,1h 42m,2000,crime,Mary Harron
+1863,5. Frequency,7.4,1h 58m,2000,crime,Gregory Hoblit
+1864,8. Gone in 60 Seconds,6.5,1h 58m,2000,crime,Dominic Sena
+1865,16. Snatch,8.2,1h 42m,2000,crime,Guy Ritchie
+1866,17. Taxi 2,6.5,1h 28m,2000,crime,Gérard Krawczyk
+1867,18. The Cell,6.4,1h 47m,2000,crime,Tarsem Singh
+1868,29. Kiss of the Dragon,6.6,1h 38m,2001,crime,Chris Nahon
+1869,34. Ocean's Eleven,7.7,1h 56m,2001,crime,Steven Soderbergh
+1870,35. Original Sin,6.0,1h 56m,2001,crime,Michael Cristofer
+1871,42. The Score,6.8,2h 4m,2001,crime,Frank Oz
+1872,43. Training Day,7.8,2h 2m,2001,crime,Antoine Fuqua
+1873,48. Catch Me If You Can,8.1,2h 21m,2002,crime,Steven Spielberg
+1874,56. Minority Report,7.6,2h 25m,2002,crime,Steven Spielberg
+1875,58. Panic Room,6.8,1h 52m,2002,crime,David Fincher
+1876,59. Phone Booth,7.1,1h 21m,2002,crime,Joel Schumacher
+1877,67. The Transporter,6.8,1h 32m,2002,crime,Louis Leterrier
+1878,69. 11:14,7.1,1h 26m,2003,crime,Greg Marcks
+1879,72. Bad Santa,7.0,1h 32m,2003,crime,Terry Zwigoff
+1880,76. Daredevil,5.3,1h 43m,2003,crime,Mark Steven Johnson
+1881,84. Kill Bill: Vol. 1,8.2,1h 51m,2003,crime,Quentin Tarantino
+1882,85. Monster,7.3,1h 49m,2003,crime,Patty Jenkins
+1883,90. Runaway Jury,7.1,2h 7m,2003,crime,Gary Fleder
+1884,91. Taxi 3,5.8,1h 24m,2003,crime,Gérard Krawczyk
+1885,105. Cellular,6.5,1h 34m,2004,crime,David R. Ellis
+1886,107. Collateral,7.5,2h,2004,crime,Michael Mann
+1887,109. District B13,7.1,1h 24m,2004,crime,Pierre Morel
+1888,130. Taking Lives,6.2,1h 43m,2004,crime,D.J. Caruso
+1889,142. Windstruck,7.1,2h 3m,2004,crime,Jae-young Kwak
+1890,143. Anniyan,8.3,3h 1m,2005,crime,S. Shankar
+1891,146. Chaos,6.4,1h 46m,2005,crime,Tony Giglio
+1892,151. Gone Baby Gone,7.6,1h 54m,2007,crime,Ben Affleck
+1893,155. Lord of War,7.6,2h 2m,2005,crime,Andrew Niccol
+1894,158. Mr. & Mrs. Smith,6.5,2h,2005,crime,Doug Liman
+1895,162. Revolver,6.3,1h 51m,2005,crime,Guy Ritchie
+1896,167. The Devil's Rejects,6.7,1h 47m,2005,crime,Rob Zombie
+1897,183. Crank,6.9,1h 28m,2006,crime,Mark Neveldine
+1898,184. Deja Vu,7.1,2h 6m,2006,crime,Tony Scott
+1899,186. Inside Man,7.6,2h 9m,2006,crime,Spike Lee
+1900,189. Lucky Number Slevin,7.7,1h 50m,2006,crime,Paul McGuigan
+1901,197. Rang De Basanti,8.1,2h 47m,2006,crime,Rakeysh Omprakash Mehra
+1902,202. The Departed,8.5,2h 31m,2006,crime,Martin Scorsese
+1903,210. Vettaiyaadu Vilaiyaadu,7.9,2h 54m,2006,crime,Gautham Vasudev Menon
+1904,212. 3:10 to Yuma,7.6,2h 2m,2007,crime,James Mangold
+1905,214. Awake,6.5,1h 24m,2007,crime,Joby Harold
+1906,215. An American Crime,7.2,1h 38m,2007,crime,Tommy O'Haver
+1907,219. Cheluvina Chittara,6.4,2h 30m,2007,crime,S. Narayan
+1908,221. Disturbia,6.8,1h 45m,2007,crime,D.J. Caruso
+1909,222. Eastern Promises,7.6,1h 40m,2007,crime,David Cronenberg
+1910,224. Fracture,7.2,1h 53m,2007,crime,Gregory Hoblit
+1911,236. Michael Clayton,7.2,1h 59m,2007,crime,Tony Gilroy
+1912,238. Mr. Brooks,7.3,2h,2007,crime,Bruce A. Evans
+1913,239. Nancy Drew,5.9,1h 39m,2007,crime,Andrew Fleming
+1914,241. No Country for Old Men,8.2,2h 2m,2007,crime,Ethan Coen
+1915,242. Ocean's Thirteen,6.9,2h 2m,2007,crime,Steven Soderbergh
+1916,248. Shattered,6.6,1h 35m,2007,crime,Mike Barker
+1917,261. The Lookout,6.9,1h 39m,2007,crime,Scott Frank
+1918,266. Trade,7.3,2h,2007,crime,Marco Kreuzpaintner
+1919,270. Zodiac,7.7,2h 37m,2007,crime,David Fincher
+1920,271. 24: Redemption,7.4,1h 24m,2008,crime,Jon Cassar
+1921,274. Changeling,7.7,2h 21m,2008,crime,Clint Eastwood
+1922,300. Pineapple Express,6.9,1h 51m,2008,crime,David Gordon Green
+1923,309. Slumdog Millionaire,8.0,2h,2008,crime,Danny Boyle
+1924,311. Taken,7.7,1h 30m,2008,crime,Pierre Morel
+1925,312. The Alphabet Killer,5.2,1h 38m,2008,crime,Rob Schmidt
+1926,313. The Bank Job,7.2,1h 51m,2008,crime,Roger Donaldson
+1927,318. The Dark Knight,9.0,2h 32m,2008,crime,Christopher Nolan
+1928,324. Traitor,6.9,1h 54m,2008,crime,Jeffrey Nachmanoff
+1929,326. Untraceable,6.2,1h 41m,2008,crime,Gregory Hoblit
+1930,330. Wanted,6.7,1h 50m,2008,crime,Timur Bekmambetov
+1931,342. Defendor,6.7,1h 41m,2009,crime,Peter Stebbings
+1932,356. Public Enemies,6.9,2h 20m,2009,crime,Michael Mann
+1933,360. State of Play,7.1,2h 7m,2009,crime,Kevin Macdonald
+1934,364. The International,6.5,1h 58m,2009,crime,Tom Tykwer
+1935,378. Despicable Me,7.6,1h 35m,2010,crime,Pierre Coffin
+1936,388. Kick-Ass,7.6,1h 57m,2010,crime,Matthew Vaughn
+1937,401. The Ghost Writer,7.2,2h 8m,2010,crime,Roman Polanski
+1938,415. Fast Five,7.3,2h 10m,2011,crime,Justin Lin
+1939,421. Kempe Gowda,7.2,2h 21m,2011,crime,Sudeep
+1940,430. Shyloo,6.3,2h 32m,2011,crime,S. Narayan
+1941,433. The Adjustment Bureau,7.0,1h 46m,2011,crime,George Nolfi
+1942,434. The Adventures of Tintin,7.3,1h 47m,2011,crime,Steven Spielberg
+1943,437. The Girl with the Dragon Tattoo,7.8,2h 38m,2011,crime,David Fincher
+1944,447. 21 Jump Street,7.2,1h 49m,2012,crime,Phil Lord
+1945,450. B.A. Pass,6.4,1h 35m,2012,crime,Ajay Bahl
+1946,456. Dredd,7.1,1h 35m,2012,crime,Pete Travis
+1947,457. End of Watch,7.6,1h 49m,2012,crime,David Ayer
+1948,461. Lawless,7.2,1h 56m,2012,crime,John Hillcoat
+1949,470. Talaash: The Answer Lies Within,7.3,2h 20m,2012,crime,Reema Kagti
+1950,487. Attahaasa,7.0,2h 51m,2013,crime,A.M.R. Ramesh
+1951,495. Case No.18/9,7.8,N/A,2013,crime,Mahesh Rao
+1952,506. Kaddipudi,7.5,2h 15m,2013,crime,Suri
+1953,510. Now You See Me,7.2,1h 55m,2013,crime,Louis Leterrier
+1954,519. Soodhu Kavvum,8.3,2h 15m,2013,crime,Nalan Kumarasamy
+1955,520. Special 26,8.0,2h 24m,2013,crime,Neeraj Pandey
+1956,526. The Returned,5.9,1h 38m,2013,crime,Manuel Carballo
+1957,551. Haider,8.0,2h 40m,2014,crime,Vishal Bhardwaj
+1958,560. Nightcrawler,7.8,1h 57m,2014,crime,Dan Gilroy
+1959,566. The Equalizer,7.3,2h 12m,2014,crime,Antoine Fuqua
+1960,572. Ugramm,8.0,2h 12m,2014,crime,Prashanth Neel
+1961,573. Ulidavaru Kandanthe,8.4,2h 34m,2014,crime,Rakshit Shetty
+1962,595. Rathaavara,6.2,2h 11m,2015,crime,Chandrashekar Bandiyappa
+1963,620. Don't Breathe,7.1,1h 28m,2016,crime,Fede Alvarez
+1964,623. Killing Veerappan,7.0,2h 31m,2016,crime,Ram Gopal Varma
+1965,633. Pink,8.0,2h 16m,2016,crime,Aniruddha Roy Chowdhury
+1966,644. The Nice Guys,7.4,1h 56m,2016,crime,Shane Black
+1967,648. U Turn,7.4,2h,2016,crime,Pawan Kumar
+1968,649. Udta Punjab,7.7,2h 28m,2016,crime,Abhishek Chaubey
+1969,651. American Made,7.1,1h 55m,2017,crime,Doug Liman
+1970,658. Dirty Pretty Things,7.2,1h 37m,2002,crime,Stephen Frears
+1971,659. Teenage Mutant Ninja Turtles: Out of the Shadows,5.9,1h 52m,2016,crime,Dave Green
+1972,662. Heartbreakers,6.3,2h 3m,2001,crime,David Mirkin
+1973,664. Amen.,7.2,2h 12m,2002,crime,Costa-Gavras
+1974,666. The Deep End,6.5,1h 41m,2001,crime,Scott McGehee
+1975,668. Matchstick Men,7.3,1h 56m,2003,crime,Ridley Scott
+1976,671. Layer Cake,7.2,1h 45m,2004,crime,Matthew Vaughn
+1977,676. Tagaru,7.9,2h 9m,2018,crime,Suri
+1978,"679. Three Billboards Outside Ebbing, Missouri",8.1,1h 55m,2017,crime,Martin McDonagh
+1979,682. The Hateful Eight,7.8,2h 48m,2015,crime,Quentin Tarantino
+1980,683. Spotlight,8.1,2h 9m,2015,crime,Tom McCarthy
+1981,696. A Simple Favor,6.8,1h 57m,2018,crime,Paul Feig
+1982,698. K.G.F: Chapter 1,8.2,2h 34m,2018,crime,Prashanth Neel
+1983,717. Kavaludaari,7.9,2h 23m,2019,crime,Hemanth M. Rao
+1984,720. Reindeer Games,5.8,1h 44m,2000,crime,John Frankenheimer
+1985,733. BlacKkKlansman,7.5,2h 15m,2018,crime,Spike Lee
+1986,743. Knives Out,7.9,2h 10m,2019,crime,Rian Johnson
+1987,754. Game Night,6.9,1h 40m,2018,crime,John Francis Daley
+1988,757. Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,6.1,1h 49m,2020,crime,Cathy Yan
+1989,763. Guns Akimbo,6.3,1h 38m,2019,crime,Jason Howden
+1990,765. Extraction,6.8,1h 56m,2020,crime,Sam Hargrave
+1991,766. Just Mercy,7.6,2h 17m,2019,crime,Destin Daniel Cretton
+1992,767. Polar,6.3,1h 58m,2019,crime,Jonas Åkerlund
+1993,770. Bad Boys II,6.6,2h 27m,2003,crime,Michael Bay
+1994,780. Promising Young Woman,7.5,1h 53m,2020,crime,Emerald Fennell
+1995,788. Nobody,7.4,1h 32m,2021,crime,Ilya Naishuller
+1996,793. Baby Driver,7.5,1h 53m,2017,crime,Edgar Wright
+1997,794. Cruella,7.3,2h 14m,2021,crime,Craig Gillespie
+1998,803. Nightmare Alley,7.0,2h 30m,2021,crime,Guillermo del Toro
+1999,804. Death on the Nile,6.3,2h 7m,2022,crime,Kenneth Branagh
+2000,807. The Unbearable Weight of Massive Talent,7.0,1h 47m,2022,crime,Tom Gormican
+2001,830. John Wick: Chapter 4,7.6,2h 49m,2023,crime,Chad Stahelski
+2002,832. Extraction II,7.0,2h 2m,2023,crime,Sam Hargrave
+2003,843. House of Sand and Fog,7.5,2h 6m,2003,crime,Vadim Perelman
+2004,847. Hit Man,6.8,1h 55m,2023,crime,Richard Linklater
+2005,848. Shakhahaari,7.5,2h 25m,2024,crime,Sandeep Sunkad
+2006,859. Kill,7.5,1h 45m,2023,crime,Nikhil Nagesh Bhat
